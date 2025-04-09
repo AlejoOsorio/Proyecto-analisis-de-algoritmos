@@ -21,7 +21,7 @@ class WebScraperTaylorAndFrancis:
         self.search_term = os.getenv("SEARCH_TERM")
 
     def run(self):
-        crai = os.getenv("BILBIOTECA_CRAI")
+        crai = os.getenv("BIBLIOTECA_CRAI")
         wait = WebDriverWait(self.driver, 60)
 
         self.driver.get(crai)
