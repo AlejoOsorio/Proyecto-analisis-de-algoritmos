@@ -2,18 +2,43 @@ import os
 import rispy
 
 
+def __ris_to_dict(filepath):
+    dict = {}
+    if not os.path.exists(filepath):
+        return dict
+
+    articles = read_ris_file(filepath)
+    for article in articles:
+        identifier = article.get("doi", None) or article.get("UR", None)
+        dict[identifier] = article
+
+    return dict
+
+
 def read_ris_file(filepath):
     with open(filepath, "r", encoding="utf-8") as bibliography_file:
         entries = rispy.load(bibliography_file)
         return entries
 
 
+def clean_ris_file(path):
+    with open(path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Reemplazar espacios no separables por espacios normales
+    content = content.replace('\xa0', ' ')
+
+    # Guardar el archivo limpio
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(content)
+
+
 def merge_ris_file(path_folder):
     unique_file_path = os.getenv("UNIQUE_FILE_PATH")
     duplicate_file_path = os.getenv("DUPLICATE_FILE_PATH")
 
-    uniques = {}
-    duplicates = {}
+    uniques = __ris_to_dict(unique_file_path)
+    duplicates = __ris_to_dict(duplicate_file_path)
 
     files = [file for file in os.listdir(path_folder) if file.endswith(".ris")]
     for file in files:
@@ -24,7 +49,8 @@ def merge_ris_file(path_folder):
 
             if identifier:
                 if identifier in uniques:
-                    duplicates[identifier] = article
+                    if identifier not in duplicates:
+                        duplicates[identifier] = article
                 else:
                     uniques[identifier] = article
             else:

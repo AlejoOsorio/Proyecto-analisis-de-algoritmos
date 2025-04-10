@@ -8,17 +8,21 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 
-from src.util.selenium_utils import get_driver
-from src.util.ris_utils import merge_ris_file
+from src.util.selenium_utils import get_driver_undected
+from src.util.ris_utils import clean_ris_file, merge_ris_file
 from src.util.utils import validate_path
 
 
-class WebScraperTaylorAndFrancis:
+class WebScraperSage:
     def __init__(self):
-        self.download_path = os.getenv("DOWNLOAD_PATH") + "\\taylor"
+        self.download_path = os.getenv("DOWNLOAD_PATH") + "\\sage"
         validate_path(self.download_path)
-        self.driver = get_driver(self.download_path)
+        self.driver = get_driver_undected(self.download_path)
         self.search_term = os.getenv("SEARCH_TERM")
+
+    def is_not_disabled(self):
+        element = self.driver.find_element(By.CSS_SELECTOR, "a.download__btn")
+        return "disabled" not in element.get_attribute("class")
 
     def run(self):
         crai = os.getenv("BIBLIOTECA_CRAI")
@@ -31,8 +35,8 @@ class WebScraperTaylorAndFrancis:
         ingenieria = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="block-stacks-content-listing-results-block"]/div/details[7]/summary')))
         ingenieria.click()
 
-        taylor = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="facingenierataylorfrancisconsorciocolombiadescubridor"]/div/div/h3/a/span')))
-        taylor.click()
+        sage = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="facingenierasagerevistasconsorciocolombiadescubridor"]/div/div/h3/a/span')))
+        sage.click()
 
         btn_google = self.driver.find_element(By.ID, "btn-google")
         btn_google.click()
@@ -48,50 +52,48 @@ class WebScraperTaylorAndFrancis:
         # Esperar hasta que el banner de cookies sea visible (si aparece)
         try:
             cookies_continue = WebDriverWait(self.driver, 5).until(
-                EC.element_to_be_clickable((By.ID, "onetrust-accept-btn-handler"))
+                EC.element_to_be_clickable((By.ID, "onetrust-reject-all-handler"))
             )
             cookies_continue.click()
         except TimeoutException:
             print("El banner de cookies no apareció o fue bloqueado por el navegador.")
 
-        input_search = wait.until(EC.element_to_be_clickable((By.ID, "searchText-1d85a42e-ad57-4c0d-a477-c847718bcb5d")))
+        input_search = wait.until(EC.element_to_be_clickable((By.ID, "AllField35ea26a9-ec16-4bde-9652-17b798d5b6750")))
         time.sleep(2)
         input_search.send_keys(self.search_term)
         input_search.send_keys(Keys.ENTER)
 
-        combo_box_options = wait.until(EC.element_to_be_clickable((By.ID, "perPage-button")))
-        combo_box_options.click()
-
-        current_url = self.driver.current_url
+        # Obtiene la URL actual (en caso de que haya redirecciones o cambios por JS)
+        url_actual = self.driver.current_url
 
         # Analiza y modifica pageSize
-        parsed_url = urlparse(current_url)
+        parsed_url = urlparse(url_actual)
         query_params = parse_qs(parsed_url.query)
-        query_params['pageSize'] = ['200']
+        query_params['pageSize'] = ['100']
         nueva_query = urlencode(query_params, doseq=True)
         nueva_url = urlunparse(parsed_url._replace(query=nueva_query))
 
         self.driver.get(nueva_url)
 
-        for idx in range(3):
-            time.sleep(2)
+        for _ in range(10):
+            time.sleep(4)
+            interval_articles = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="pb-page-content"]/div/div/main/div[1]/div/div/div/div[2]/div[3]/div/span[1]/span')))
 
-            select_all_checkbox = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "checkbox-container")))
+            select_all_checkbox = wait.until(EC.element_to_be_clickable((By.ID, "action-bar-select-all")))
             select_all_checkbox.click()
 
-            download_citations = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="allTabsContainer"]/div/div/div[1]/a[1]')))
-            download_citations.click()
+            print("--> exportar citas")
+            exported_selected_citations = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="pb-page-content"]/div/div/main/div[1]/div/div/div/div[2]/div[4]/div[2]/div/div[2]/a')))
+            exported_selected_citations.click()
 
-            time.sleep(1)
-
-            btn_dowunload_citations = wait.until(EC.element_to_be_clickable((By.ID, "btn-download-citations")))
-            btn_dowunload_citations.click()
-
-            time_wait = 0
-            while len(os.listdir(self.download_path)) <= 0 and time_wait < 60:
-                print("--> esperando que inicie la descarga")
+            while (not self.is_not_disabled()):
+                print("Esperando disponibilidad del boton descargar")
                 time.sleep(2)
-                time_wait += 2
+
+            print("--> Iniciando descarga")
+            btn_dowunload_citations = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "a.btn.btn-secondary.download__btn")))
+            btn_dowunload_citations.click()
+            print("--> Descarga iniciada")
 
             if (self.is_download_complete(self.download_path)):
                 print("--> Esperando que el archivo descargue completamente")
@@ -101,31 +103,41 @@ class WebScraperTaylorAndFrancis:
             self.rename_file()
             print("Finalizo la descarga")
 
-            time.sleep(2)
+            time.sleep(3)
 
-            btn_next_page = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "nextPage")))
+            close_pop_up = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="exportCitation"]/div/div/div[1]/button')))
+            close_pop_up.click()
+
+            btn_next_page = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "next")))
             btn_next_page.click()
 
-            while (not self.wait_for_display_none()):
+            time.sleep(2)
+
+            while (not self.next_page_ready(interval_articles)):
                 print("--> Esperando siguiente pagina...")
                 time.sleep(2)
 
         self.driver.quit()
+
+        files = [file for file in os.listdir(self.download_path) if file.endswith(".ris")]
+        for file in files:
+            clean_ris_file(os.path.join(self.download_path, file))
+
         merge_ris_file(self.download_path)
 
-    def wait_for_display_none(self):
+    def next_page_ready(self, interval_articles):
         # Espera hasta que desaparesca determinado item pop up
-        element = self.driver.find_element(By.CSS_SELECTOR, ".ajax-overlay")
-        display_value = element.value_of_css_property("display")
-        return display_value == "none"
+        element = self.driver.find_element(By.XPATH, '//*[@id="pb-page-content"]/div/div/main/div[1]/div/div/div/div[2]/div[3]/div/span[1]/span')
+        time.sleep(2)
+        return element != interval_articles
 
     def rename_file(self):
         """Renombra los archivos con nombre acm.bib, para evitar que se sobre escriban"""
         downloaded_files = os.listdir(self.download_path)
         for idx, file_name in enumerate(downloaded_files):
             # Verifica si el archivo ya existe y cambia su nombre
-            if file_name == "tandf_citations.ris":
-                new_name = f"tandf_citations-{idx}.ris"
+            if file_name == "sage.ris":
+                new_name = f"sage-{idx}.ris"
                 old_path = os.path.join(self.download_path, file_name)
                 new_path = os.path.join(self.download_path, new_name)
                 os.rename(old_path, new_path)
