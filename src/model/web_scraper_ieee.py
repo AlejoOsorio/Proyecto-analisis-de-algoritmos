@@ -12,11 +12,18 @@ from src.util.utils import validate_path
 
 
 class WebScraperIeee:
+    
     def __init__(self):
+        #Inicialización
         self.download_path = os.getenv("DOWNLOAD_PATH") + "\\ieee"
+
+        #Define el directorio de descarga para guardar los archivos .ris.
         validate_path(self.download_path)
         self.driver = get_driver(self.download_path)
         self.search_term = os.getenv("SEARCH_TERM")
+
+        #Verifica que la ruta existe, crea un driver de Selenium configurado para ese path,
+        # y toma el término de búsqueda desde variables de entorno.
 
     def run(self):
         crai = os.getenv("BIBLIOTECA_CRAI")

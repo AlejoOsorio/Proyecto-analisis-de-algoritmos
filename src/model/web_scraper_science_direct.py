@@ -99,3 +99,5 @@ class WebScraperScienceDirect:
 
         self.driver.quit()
         merge_ris_file(self.download_path)
+
+
