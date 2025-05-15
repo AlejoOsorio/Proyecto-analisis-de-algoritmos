@@ -22,6 +22,8 @@ class TextAnalyzer:
         Args:
             ris_file_path (str): Ruta al archivo RIS unificado.
         """
+        self._download_nltk_resources()  # Primero asegurar recursos NLTK
+        
         self.ris_file_path = ris_file_path
         self.articles = self._load_articles()
         self.abstracts = self._extract_abstracts()
@@ -37,6 +39,22 @@ class TextAnalyzer:
         # Resultados del análisis
         self.category_frequencies = {}
         self.word_co_occurrences = defaultdict(lambda: defaultdict(int))
+
+    def _download_nltk_resources(self):
+        """Descarga los recursos necesarios de NLTK."""
+        resources = {
+            'punkt': 'tokenizers/punkt',
+            'stopwords': 'corpora/stopwords', 
+            'wordnet': 'corpora/wordnet',
+            'punkt_tab': 'tokenizers/punkt_tab/english'
+        }
+        
+        for resource_name, resource_path in resources.items():
+            try:
+                nltk.data.find(resource_path)
+            except LookupError:
+                nltk.download(resource_name, quiet=True)
+                print(f"Descargando recurso NLTK: {resource_name}")
 
     def _load_articles(self):
         """Carga los artículos desde el archivo RIS."""
@@ -55,86 +73,26 @@ class TextAnalyzer:
 
     def _load_categories(self):
         """
-        Carga las categorías y sus variables desde un archivo JSON.
-        Si el archivo no existe, crea un diccionario con las categorías definidas.
-        """
-        # Verificar si existe un archivo de categorías
-        categories_file = os.path.join(os.path.dirname(__file__), '..', 'data', 'categories.json')
+        Carga las categorías desde el archivo JSON ubicado en ../util/categories.json.
         
-        if os.path.exists(categories_file):
-            with open(categories_file, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        else:
-            # Definir categorías y variables según el requerimiento
-            return {
-                "Habilidades": [
-                    "Abstraction", "Algorithm", "Algorithmic thinking", "Coding", "Collaboration", 
-                    "Cooperation", "Creativity", "Critical thinking", "Debug", "Decomposition", 
-                    "Evaluation", "Generalization", "Logic", "Logical thinking", "Modularity", 
-                    "Patterns recognition", "Problem solving", "Programming"
-                ],
-                "Conceptos Computacionales": [
-                    "Conditionals", "Control structures", "Directions", "Events", "Funtions", 
-                    "Loops", "Modular structure", "Parallelism", "Sequences", "Software/hardware", 
-                    "Variables"
-                ],
-                "Actitudes": [
-                    "Emotional", "Engagement", "Motivation", "Perceptions", "Persistence", 
-                    "Self-efficacy", "Self-perceived"
-                ],
-                "Propiedades psicométricas": [
-                    "Classical Test Theory - CTT", "Confirmatory Factor Analysis - CFA", 
-                    "Exploratory Factor Analysis - EFA", "Item Response Theory (IRT) - IRT", 
-                    "Reliability", "Structural Equation Model - SEM", "Validity"
-                ],
-                "Herramienta de evaluación": [
-                    "Beginners Computational Thinking test - BCTt", "Coding Attitudes Survey - ESCAS", 
-                    "Collaborative Computing Observation Instrument", "Competent Computational Thinking test - cCTt", 
-                    "Computational thinking skills test - CTST", "Computational concepts", 
-                    "Computational Thinking Assessment for Chinese Elementary Students - CTA-CES", 
-                    "Computational Thinking Challenge - CTC", "Computational Thinking Levels Scale - CTLS", 
-                    "Computational Thinking Scale - CTS", "Computational Thinking Skill Levels Scale - CTS", 
-                    "Computational Thinking Test - CTt", "Computational Thinking Test", 
-                    "Computational Thinking Test for Elementary School Students", 
-                    "Computational Thinking Test for Lower Primary - CTtLP", 
-                    "Computational thinking-skill tasks on numbers and arithmetic", 
-                    "Computerized Adaptive Programming Concepts Test - CAPCT", "CT Scale - CTS", 
-                    "Elementary Student Coding Attitudes Survey - ESCAS", "General self-efficacy scale", 
-                    "ICT competency test", "Instrument of computational identity", "KBIT fluid intelligence subtest", 
-                    "Mastery of computational concepts Test and an Algorithmic Test", 
-                    "Multidimensional 21st Century Skills Scale", "Self-efficacy scale", 
-                    "STEM learning attitude scale", "The computational thinking scale"
-                ],
-                "Diseño de investigación": [
-                    "No experimental", "Experimental", "Longitudinal research", "Mixed methods", 
-                    "Post-test", "Pre-test", "Quasi-experiments"
-                ],
-                "Nivel de escolaridad": [
-                    "Upper elementary education - Upper elementary school", 
-                    "Primary school - Primary education - Elementary school", 
-                    "Early childhood education – Kindergarten -Preschool", 
-                    "Secondary school - Secondary education", "high school - higher education", 
-                    "University – College"
-                ],
-                "Medio": [
-                    "Block programming", "Mobile application", "Pair programming", "Plugged activities", 
-                    "Programming", "Robotics", "Spreadsheet", "STEM", "Unplugged activities"
-                ],
-                "Estrategia": [
-                    "Construct-by-self mind mapping", "Construct-on-scaffold mind mapping", 
-                    "Design-based learning", "Evidence-centred design approach", "Gamification", 
-                    "Reverse engineering pedagogy", "Technology-enhanced learning", 
-                    "Collaborative learning", "Cooperative learning", "Flipped classroom", 
-                    "Game-based learning", "Inquiry-based learning", "Personalized learning", 
-                    "Problem-based learning", "Project-based learning", "Universal design for learning"
-                ],
-                "Herramienta": [
-                    "Alice", "Arduino", "Scratch", "ScratchJr", "Blockly Games", "Code.org", 
-                    "Codecombat", "CSUnplugged", "Robot Turtles", "Hello Ruby", "Kodable", 
-                    "LightbotJr", "KIBO robots", "BEE BOT", "CUBETTO", "Minecraft", "Agent Sheets", 
-                    "Mimo", "Py– Learn", "SpaceChem"
-                ]
-            }
+        Returns:
+            dict: Diccionario con las categorías y términos organizados.
+        """
+        # Ruta relativa desde text_analyzer.py (src/model/) al JSON (src/util/)
+        categories_file = os.path.join(
+            os.path.dirname(__file__),  # src/model/
+            '..',  # src/
+            'util',  # src/util/
+            'categories.json'  # src/util/categories.json
+        )
+        
+        # Verificar si el archivo existe
+        if not os.path.exists(categories_file):
+            raise FileNotFoundError(f"No se encontró el archivo de categorías en: {categories_file}")
+        
+        # Cargar el archivo
+        with open(categories_file, 'r', encoding='utf-8') as f:
+            return json.load(f)
 
     def _create_synonyms_map(self):
         """

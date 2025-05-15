@@ -14,10 +14,12 @@ from src.util.utils import validate_path
 
 class WebScraperScienceDirect:
     def __init__(self):
+
         self.download_path = os.getenv("DOWNLOAD_PATH") + "\\science"
         validate_path(self.download_path)
         self.driver = get_driver_undected(self.download_path)
         self.search_term = os.getenv("SEARCH_TERM")
+
 
     def run(self):
         crai = os.getenv("BIBLIOTECA_CRAI")

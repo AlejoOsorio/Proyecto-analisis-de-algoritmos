@@ -15,6 +15,8 @@ from src.util.utils import validate_path
 
 class WebScraperSage:
     def __init__(self):
+
+
         self.download_path = os.getenv("DOWNLOAD_PATH") + "\\sage"
         validate_path(self.download_path)
         self.driver = get_driver_undected(self.download_path)

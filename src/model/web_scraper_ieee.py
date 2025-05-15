@@ -14,6 +14,8 @@ from src.util.utils import validate_path
 class WebScraperIeee:
     
     def __init__(self):
+
+        
         #Inicialización
         self.download_path = os.getenv("DOWNLOAD_PATH") + "\\ieee"
 
