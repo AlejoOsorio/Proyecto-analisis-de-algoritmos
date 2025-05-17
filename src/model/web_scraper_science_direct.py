@@ -30,7 +30,7 @@ class WebScraperScienceDirect:
         ingenieria = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="block-stacks-content-listing-results-block"]/div/details[7]/summary')))
         ingenieria.click()
 
-        sicne_direct = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="facingenierasciencedirectconsorciocolombiadescubridor"]/div/div/h3/a')))
+        sicne_direct = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="facingenierasciencedirectdescubridor"]/div/div/h3/a/span')))
         sicne_direct.click()
 
         btn_google = self.driver.find_element(By.ID, "btn-google")
@@ -54,7 +54,7 @@ class WebScraperScienceDirect:
         time.sleep(2)
 
         for _ in range(10):
-            print("Seleccionar chek")
+            print("Seleccionar check")
 
             select_all_check = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="srp-toolbar"]/div[1]/span/span[1]/span[1]/div/div/label/span[1]')))
             select_all_check.click()

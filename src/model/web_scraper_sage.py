@@ -35,7 +35,7 @@ class WebScraperSage:
         ingenieria = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="block-stacks-content-listing-results-block"]/div/details[7]/summary')))
         ingenieria.click()
 
-        sage = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="facingenierasagerevistasconsorciocolombiadescubridor"]/div/div/h3/a/span')))
+        sage = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="facingenierasagerevistasdescubridor"]/div/div/h3/a/span')))
         sage.click()
 
         btn_google = self.driver.find_element(By.ID, "btn-google")
