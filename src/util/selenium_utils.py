@@ -1,17 +1,17 @@
 import os
-
-import undetected_chromedriver as uc
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.edge.options import Options as EdgeOptions
+from selenium.webdriver.edge.service import Service as EdgeService
+from dotenv import load_dotenv
 
+load_dotenv()  # Cargar variables desde el archivo .env
 
-def get_driver(download_path):
-    """Retorna el driver del navegador brave"""
-    # se obtine la ruta del ejecutable de brave
-    BRAVE_PATH = os.getenv("BRAVE_PATH")
+def get_edge_driver(download_path):
+    """Retorna el driver del navegador Microsoft Edge."""
+    EDGE_DRIVER_PATH = os.getenv("EDGE_DRIVER_PATH")
 
-    options = Options()
-    options.binary_location = BRAVE_PATH
+    options = EdgeOptions()
+    options.use_chromium = True
     options.add_argument("--start-maximized")
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_experimental_option('prefs', {
@@ -20,26 +20,7 @@ def get_driver(download_path):
         "download.directory_upgrade": True,
         "safebrowsing.enabled": True,
     })
-    driver = webdriver.Chrome(options=options)
-    return driver
 
-
-def get_driver_undected(download_path):
-    """Retorna el driver del navegador brave"""
-    # se obtine la ruta del ejecutable de brave
-    BRAVE_PATH = os.getenv("BRAVE_PATH")
-
-    options = Options()
-    options.add_argument('--disable-gpu')  # Opcional, para mejorar el rendimiento
-    options.add_argument('--no-sandbox')  # Opcional, para entornos limitados
-
-    options.binary_location = BRAVE_PATH
-
-    driver = uc.Chrome(options=options)
-    driver.maximize_window()
-    params = {
-        "behavior": "allow",
-        "downloadPath": download_path
-    }
-    driver.execute_cdp_cmd("Page.setDownloadBehavior", params)
+    service = EdgeService(executable_path=EDGE_DRIVER_PATH)
+    driver = webdriver.Edge(service=service, options=options)
     return driver

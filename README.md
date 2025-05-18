@@ -14,3 +14,5 @@ Las variables necesarias son las siguientes:
 * `DOWNLOAD_PATH`: Ruta donde se guardarán las descargas realizadas por el web scraper.
 * `UNIQUE_FILE_PATH`: Ruta donde se almacenará el archivo con los artículos únicos.
 * `DUPLICATE_FILE_PATH`: Ruta donde se almacenará el archivo con los artículos duplicados.
+
+
