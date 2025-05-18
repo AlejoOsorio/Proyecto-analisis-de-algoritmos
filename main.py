@@ -4,6 +4,7 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 
+from src.fifth_requirement import HierarchicalClustering
 from src.util.ris_utils import read_ris_file
 from src.model.web_scraper_sage import WebScraperSage
 from src.model.web_scraper_ieee import WebScraperIeee
@@ -137,6 +138,13 @@ def plot_grouped_bar_chart(nested_dict, title='Grouped Bar Chart', xlabel='Main 
     plt.show()
 
 
+def fivth_requirement():
+    a = HierarchicalClustering()
+    a.load_data(os.getenv("UNIQUE_FILE_PATH"))
+    a.vectorize_texts()
+    a.compare_methods()
+
+
 def main():
 
     # Web scrappers
@@ -169,6 +177,8 @@ def main():
     plot_bar_chart_from_dict(c, title='Productos por tipo', xlabel='Producto', ylabel='Cantidad')
     plot_bar_chart_from_dict(d, title='15 journals con más apariciones', xlabel='Journal', ylabel='Cantidad', rotation=90)
     plot_bar_chart_from_dict(e, title='15 publishers con más articulos', xlabel='Publisher', ylabel='Cantidad')
+
+    fivth_requirement()
 
 
 if __name__ == '__main__':
