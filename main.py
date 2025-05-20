@@ -1,5 +1,7 @@
 from collections import defaultdict
 import os
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -145,6 +147,7 @@ def run_text_analysis_pipeline():
     print("¡Proceso completado con éxito!")
     print(f"Resultados guardados en: {output_dir}")
 
+    
 def main():
     try:
         scraper_sage = WebScraperSage()
@@ -180,6 +183,14 @@ def main():
 
     print("Ejecutando análisis de texto y visualizaciones adicionales...")
     run_text_analysis_pipeline()
+
+    print("Iniciando servidor Flask...")
+
+    # Importa app justo antes de iniciar Flask para evitar recarga doble
+    from app import app
+
+    # Desactiva el reloader para que no se reinicie el servidor automáticamente
+    app.run(debug=True, use_reloader=False)
 
 if __name__ == '__main__':
     main()

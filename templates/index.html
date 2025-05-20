@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Resultados Visuales</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #111;
+      color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #222;
+      padding: 1rem;
+      text-align: center;
+      font-size: 2rem;
+      font-weight: bold;
+      color: #00e0ff;
+      border-bottom: 2px solid #00e0ff;
+    }
+
+    .category {
+      margin: 2rem;
+    }
+
+    .category h2 {
+      color: #00e0ff;
+      margin-bottom: 1rem;
+      border-left: 5px solid #00e0ff;
+      padding-left: 10px;
+    }
+
+    .images {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .images img {
+      width: 100%;
+      border: 2px solid #00e0ff;
+      border-radius: 8px;
+      transition: transform 0.3s;
+      background-color: #222;
+      cursor: pointer;
+    }
+
+    .images img:hover {
+      transform: scale(1.05);
+      border-color: #66fcf1;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #777;
+      background-color: #222;
+      margin-top: 3rem;
+    }
+
+    /* Modal */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 999;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0,0,0,0.8);
+    }
+
+    .modal-content {
+      margin: 5% auto;
+      display: block;
+      max-width: 90%;
+      max-height: 80vh;
+      border: 4px solid #00e0ff;
+      border-radius: 10px;
+      box-shadow: 0 0 15px #00e0ff;
+    }
+
+    .modal-content:hover {
+      cursor: zoom-out;
+    }
+
+    .close {
+      position: absolute;
+      top: 15px;
+      right: 25px;
+      color: #fff;
+      font-size: 35px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .close:hover {
+      color: #66fcf1;
+    }
+  </style>
+</head>
+<body>
+  <header>Visualizaciones del Análisis</header>
+
+  {% for category, images in categories.items() %}
+    <div class="category">
+      <h2>{{ category.replace('_', ' ').capitalize() }}</h2>
+      <div class="images">
+        {% for image in images %}
+          <img src="{{ url_for('static', filename='visualizations/' + image) }}" alt="{{ image }}" onclick="openModal(this.src)">
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+
+  <footer>
+    Proyecto de Análisis de Algoritmos - {{ categories|length }} categorías visualizadas
+  </footer>
+
+  <!-- Modal -->
+  <div id="imgModal" class="modal" onclick="closeModal()">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <img class="modal-content" id="modalImg">
+  </div>
+
+  <script>
+    function openModal(src) {
+      const modal = document.getElementById("imgModal");
+      const modalImg = document.getElementById("modalImg");
+      modal.style.display = "block";
+      modalImg.src = src;
+    }
+
+    function closeModal() {
+      document.getElementById("imgModal").style.display = "none";
+    }
+  </script>
+</body>
+</html>
