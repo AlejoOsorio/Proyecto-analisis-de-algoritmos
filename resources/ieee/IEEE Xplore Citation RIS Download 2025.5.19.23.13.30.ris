@@ -1,0 +1,2890 @@
+TY  - JOUR
+TI  - Goal-based denial and wishful thinking
+T2  - IEEE Computational Intelligence Magazine
+SP  - 63
+EP  - 76
+AU  - C. F. Pimentel
+AU  - M. R. Cravo
+PY  - 2013
+KW  - Affective computing
+KW  - Human factors
+KW  - Emotion recognition
+KW  - Human computer interaction
+KW  - Behavioral science
+DO  - 10.1109/MCI.2013.2247831
+JO  - IEEE Computational Intelligence Magazine
+IS  - 2
+SN  - 1556-6048
+VO  - 8
+VL  - 8
+JA  - IEEE Computational Intelligence Magazine
+Y1  - May 2013
+AB  - Denial and wishful thinking are well known affective phenomena that influence human belief processes. Put simply, they consist of tendencies to disbelieve what one would not like to be true, and believe what one would like to be true. We present an approach to an agent's belief dynamics, that simulates denial and wishful thinking, using the agent's goals as the source of affective preference. Our approach also addresses several issues concerning the use of conventional belief revision in human-like autonomous agents. In our approach, every goal produces a wishful thought about its achievement, in the form of a weak belief. Consequently, a “disliked situation” leads to inconsistent beliefs, thus triggering belief revision. Furthermore, the agent's belief set is selected based on a measure of preference that accounts for the “likeability” of beliefs (among other factors). We test an instantiation of our model to assess whether the resulting agent could produce the intended behaviors. The agent produces behaviors of denial and wishful thinking, not only as biases in belief selection, but also as the triggers to hold or reject certain beliefs.
+ER  - 
+
+TY  - CHAP
+TI  - REFERENCES AND FURTHER READING
+T2  - Computational Thinking
+SP  - 231
+EP  - 235
+AU  - Peter J. Denning
+AU  - Matti Tedre
+PY  - 2019
+DO  - 
+PB  - MIT Press
+SN  - 9780262353410
+UR  - http://ieeexplore.ieee.org.crai.referencistas.com/document/8709364
+AB  - 
+ER  - 
+
+TY  - CHAP
+TI  - EPILOGUE: LESSONS LEARNED
+T2  - Computational Thinking
+SP  - 213
+EP  - 217
+AU  - Peter J. Denning
+AU  - Matti Tedre
+PY  - 2019
+DO  - 
+PB  - MIT Press
+SN  - 9780262353410
+UR  - http://ieeexplore.ieee.org.crai.referencistas.com/document/8709370
+AB  - In the research for this book, we learned a few lessons that are worth summarizing here.
+ER  - 
+
+TY  - CHAP
+TI  - Index
+T2  - Computational Thinking
+SP  - 237
+EP  - 244
+AU  - Peter J. Denning
+AU  - Matti Tedre
+PY  - 2019
+DO  - 
+PB  - MIT Press
+SN  - 9780262353410
+UR  - http://ieeexplore.ieee.org.crai.referencistas.com/document/8709374
+AB  - 
+ER  - 
+
+TY  - CHAP
+TI  - 3 COMPUTING MACHINES
+T2  - Computational Thinking
+SP  - 45
+EP  - 69
+AU  - Peter J. Denning
+AU  - Matti Tedre
+PY  - 2019
+DO  - 
+PB  - MIT Press
+SN  - 9780262353410
+UR  - http://ieeexplore.ieee.org.crai.referencistas.com/document/8709312
+AB  - The intolerable labour and fatiguing monotony of a continued repetition of similar arithmetical calculations, first excited the desire, and afterwards suggested the idea, of a machine, which, by the aid of gravity or any other moving power, should become a substitute for one of the lowest operations of human intellect.
+ER  - 
+
+TY  - CHAP
+TI  - PREFACE
+T2  - Computational Thinking
+SP  - ix
+EP  - xv
+AU  - Peter J. Denning
+AU  - Matti Tedre
+PY  - 2019
+DO  - 
+PB  - MIT Press
+SN  - 9780262353410
+UR  - http://ieeexplore.ieee.org.crai.referencistas.com/document/8709355
+AB  - A computer revolution is in full swing. The invasion of computing into every part of our lives has brought enormous benefits including email, internet, World Wide Web, Amazon's e-commerce, Kahn Academy, Uber's taxi hailing, Google's maps, trip navigators, smartphones, real-time translators, and apps by the millions. At the same time it has also brought enormous concerns including possible loss of jobs to automation, mass surveillance, collapse of critical infrastructure, cyber war, mass sales of personal data, invasions of advertising, loss of privacy, polarization of politics, loss of civility and respectful listening, and exacerbated income inequality.
+ER  - 
+
+TY  - CHAP
+TI  - 6 DESIGNING FOR HUMANS
+T2  - Computational Thinking
+SP  - 127
+EP  - 147
+AU  - Peter J. Denning
+AU  - Matti Tedre
+PY  - 2019
+DO  - 
+PB  - MIT Press
+SN  - 9780262353410
+UR  - http://ieeexplore.ieee.org.crai.referencistas.com/document/8709365
+AB  - Descriptions of software entities that abstract away their complexity often abstract away their essence. Good judgment comes from experience, and experience comes from bad judgment.
+ER  - 
+
+TY  - CHAP
+TI  - GLOSSARY
+T2  - Computational Thinking
+SP  - 219
+EP  - 225
+AU  - Peter J. Denning
+AU  - Matti Tedre
+PY  - 2019
+DO  - 
+PB  - MIT Press
+SN  - 9780262353410
+UR  - http://ieeexplore.ieee.org.crai.referencistas.com/document/8709383
+AB  - 
+ER  - 
+
+TY  - CHAP
+TI  - 9 FUTURE COMPUTATION
+T2  - Computational Thinking
+SP  - 193
+EP  - 212
+AU  - Peter J. Denning
+AU  - Matti Tedre
+PY  - 2019
+DO  - 
+PB  - MIT Press
+SN  - 9780262353410
+UR  - http://ieeexplore.ieee.org.crai.referencistas.com/document/8709311
+AB  - Technology is part of our civilization. Sometimes people talk about conflict between humans and machines, and you can see that in a lot of science fiction. But the machines we're creating are not some invasion from Mars. We create these tools to expand our own reach.
+ER  - 
+
+TY  - CHAP
+TI  - 4 COMPUTER SCIENCE
+T2  - Computational Thinking
+SP  - 71
+EP  - 94
+AU  - Peter J. Denning
+AU  - Matti Tedre
+PY  - 2019
+DO  - 
+PB  - MIT Press
+SN  - 9780262353410
+UR  - http://ieeexplore.ieee.org.crai.referencistas.com/document/8709313
+AB  - The question “What can be automated?” is one of the most inspiring philosophical and practical questions of contemporary civilization.
+ER  - 
+
+TY  - CONF
+TI  - Code to learn with Scratch? A systematic literature review
+T2  - 2016 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 150
+EP  - 156
+AU  - J. Moreno-León
+AU  - G. Robles
+PY  - 2016
+KW  - Programming profession
+KW  - Bibliographies
+KW  - Mathematics
+KW  - Systematics
+KW  - Encoding
+KW  - Computer languages
+KW  - Computational thinking
+KW  - Scratch
+KW  - Systematic Literature Review
+KW  - Learning
+DO  - 10.1109/EDUCON.2016.7474546
+JO  - 2016 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2016 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 10-13 April 2016
+AB  - The use of computer programming in K-12 spread into schools worldwide in the 70s and 80s of the last century, but it disappeared from the educational landscape in the early 90s. With the development of visual programming languages such as Scratch, this movement has emerged again in recent years, as teachers at all educational levels and from different disciplines consider that the use of programming enhances learning in many subjects and allows students to develop important skills. The systematic literature review presented in this article aims to summarize the results of recent research using programming with Scratch in subjects not related to computing and communications, as well as studies analyzing the kind of skills students develop while learning to code in this environment. Although the analyzed papers provide promising results regarding the use of programming as an educational resource, this review highlights the need to conduct more empirical research in classrooms, using larger samples of students that allow to obtain clear conclusions about the types of learning that could be enhanced through programming.
+ER  - 
+
+TY  - CONF
+TI  - Low-Cost Educational Robotics Car Promotes STEM Learning and 21st Century Skills
+T2  - 2020 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)
+SP  - 467
+EP  - 473
+AU  - S. L. Ong
+AU  - J. P. W. Ling
+PY  - 2020
+KW  - Service robots
+KW  - Engineering profession
+KW  - Education
+KW  - Collaboration
+KW  - Automobiles
+KW  - Interviews
+KW  - Robots
+KW  - 21st century skills
+KW  - computational thinking
+KW  - low-cost robotics
+KW  - STEM learning
+KW  - Maker Uno/Arduino Uno
+DO  - 10.1109/TALE48869.2020.9368487
+JO  - 2020 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)
+IS  - 
+SN  - 2470-6698
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)
+Y1  - 8-11 Dec. 2020
+AB  - Robotics is now increasingly popular in the education system worldwide as it is one of the core technology enablers for Industry 4.0. Robotics is deemed to be able to promote students' STEM interest and 21st century skills. However, not all the students have the access to robotics, especially in Sibu, East Malaysia. This research presents the implementation of a low-cost Maker Uno educational robotics kit and its associated learning experience of the learners, which were seventy-six Foundation in Science (FIS) students in University College of Technology Sarawak (UCTS). The aim of this study is to investigate the students' empirical STEM robotics learning experience by offering them an opportunity to explore a low-cost self-assembled robotics car. Questionnaire and interviews that constitute a mixed method research were employed to investigate the present situation and derive at a solution to the problem. The findings showed that the proposed robotics activities were beneficial for the students to exercise 21st century skills and cultivate STEM interests. Educators could potentially benefit from applying this robotics pedagogical exemplary to help the students to cultivate STEM interests and 21st century skills. Future research on innovation exemplary, particularly on low-cost robotics applications and robotics education methods can be explored.
+ER  - 
+
+TY  - CONF
+TI  - No patterns in pattern recognition: A systematic literature review
+T2  - 2016 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 3
+AU  - A. Dasgupta
+AU  - S. Purzer
+PY  - 2016
+KW  - Pattern recognition
+KW  - Education
+KW  - Systematics
+KW  - Databases
+KW  - Computers
+KW  - Mathematics
+KW  - Standards
+KW  - pattern recognition
+KW  - pattern generalization
+KW  - computer education
+KW  - computing
+KW  - computational thinking
+KW  - STEM
+DO  - 10.1109/FIE.2016.7757676
+JO  - 2016 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE Frontiers in Education Conference (FIE)
+Y1  - 12-15 Oct. 2016
+AB  - Pattern recognition is one of the fundamental competencies associated with computational thinking and STEM education. Although much has been written to define computational thinking (CT), we argue that CT is a multi-faceted construct and specific aspects of CT (such as pattern recognition) should be examined. The purpose of this study is to conduct a systematic review of literature on pattern recognition to define pattern recognition as an aspect of computational thinking. The synthesis included the Engineering Village database (Compendex and INSPEC). We searched peer reviewed articles and the keywords, pattern recognition, pattern generalization and education. The initial search resulted in 208 articles. The screening of abstracts more closely resulted in 17 relevant articles, which were then read in detail by two researchers. The review of this pool resulted in two relevant articles, one with a focus on mathematics education and the other one in the context of medical education. Surprisingly there were no articles that examined pattern recognition as part of engineering or computer education. Further research examining specific aspects of CT is necessary.
+ER  - 
+
+TY  - CONF
+TI  - Analysis on the incorporation of technologies with a pedagogical perspective
+T2  - 2020 39th International Conference of the Chilean Computer Science Society (SCCC)
+SP  - 1
+EP  - 8
+AU  - F. J. Díaz
+AU  - N. Soledad Gómez
+AU  - M. Catino
+PY  - 2020
+KW  - Computer science
+KW  - Education
+KW  - Public policy
+KW  - Computational Thinking
+KW  - education
+KW  - communication
+DO  - 10.1109/SCCC51225.2020.9281177
+JO  - 2020 39th International Conference of the Chilean Computer Science Society (SCCC)
+IS  - 
+SN  - 1522-4902
+VO  - 
+VL  - 
+JA  - 2020 39th International Conference of the Chilean Computer Science Society (SCCC)
+Y1  - 16-20 Nov. 2020
+AB  - This work is the result of an investigation carried out within the framework of a research grant. The work experience that this team carried out was aimed at describing and systematizing the configuration of computational thinking, its incidence and validity in the educational field from the analysis of public policies, from an interdisciplinary approach. The experience carried out was developed based on a bibliographic and documentary analysis work, which allowed recovering the concept of computational thinking to analyze it in conjunction with the development of critical pedagogical practice and the concept of competences. Here an analysis of some of the current debates presented by computational thinking and its teaching is presented in order to promote a line of dialogue and problematization between what was done, is done and is projected on this subject.
+ER  - 
+
+TY  - CONF
+TI  - Abstracts
+T2  - International Conference on Computational Intelligence for Modelling, Control and Automation and International Conference on Intelligent Agents, Web Technologies and Internet Commerce (CIMCA-IAWTIC'06)
+SP  - xxix
+EP  - xxix
+PY  - 2005
+DO  - 10.1109/CIMCA.2005.1631435
+JO  - International Conference on Computational Intelligence for Modelling, Control and Automation and International Conference on Intelligent Agents, Web Technologies and Internet Commerce (CIMCA-IAWTIC'06)
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - International Conference on Computational Intelligence for Modelling, Control and Automation and International Conference on Intelligent Agents, Web Technologies and Internet Commerce (CIMCA-IAWTIC'06)
+Y1  - 28-30 Nov. 2005
+AB  - Presents abstracts of papers presented at the conference proceedings.
+ER  - 
+
+TY  - CONF
+TI  - The Logic of Cognitive Genetic Structures
+T2  - 2018 IEEE 17th International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)
+SP  - 306
+EP  - 315
+AU  - R. A. Fiorini
+PY  - 2018
+KW  - Cognition
+KW  - Bayes methods
+KW  - Computational modeling
+KW  - Psychology
+KW  - Tools
+KW  - Pragmatics
+KW  - Mathematical model
+KW  - brain-inspired systems
+KW  - cognitive computing
+KW  - cognitive intelligence
+KW  - computational intelligence
+KW  - deep thinking
+KW  - Elementary Pragmatic Model
+KW  - CICT
+KW  - decision making
+KW  - person-centered learning
+KW  - Intelligent Tutoring System
+DO  - 10.1109/ICCI-CC.2018.8482101
+JO  - 2018 IEEE 17th International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE 17th International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)
+Y1  - 16-18 July 2018
+AB  - In this paper we show that, when dealing with genetic structures of cognition, Piaget's approach is the most convenient algebraic form of logic structure to use and which classical logic can be derived from. But the formal rationality provided by the derived “semantic squares” is not spontaneous at rational level, and therefore, should not be easy to learn for adults. This is the main reason why we need reliable and effective training tools to achieve full logic and predicative proficiency, like the Elementary Pragmatic Model (EPM). We present the basic considerations towards the development of computational, intelligent tutoring system (ITS), taking in focus the computational model for current reasoning fallacies based on Piaget-Klein Fourgroup and related EPM training tool to achieve predicative proficiency. EPM and ITS can also contribute to AI and cognitive informatics, helping to develop autonomous reasoning system for person-centered learning and training to predicative competence and decision making.
+ER  - 
+
+TY  - JOUR
+TI  - Wishful Thinking and IT Threat Avoidance: An Extension to the Technology Threat Avoidance Theory
+T2  - IEEE Transactions on Engineering Management
+SP  - 552
+EP  - 567
+AU  - D. Q. Chen
+AU  - H. Liang
+PY  - 2019
+KW  - Appraisal
+KW  - Computer security
+KW  - Psychology
+KW  - Information technology
+KW  - Computational modeling
+KW  - Threat assessment
+KW  - Emotion-focused coping
+KW  - information technology (IT) security
+KW  - problem-focused coping
+KW  - technology threat avoidance theory (TTAT)
+KW  - threat
+KW  - vignette study
+DO  - 10.1109/TEM.2018.2835461
+JO  - IEEE Transactions on Engineering Management
+IS  - 4
+SN  - 1558-0040
+VO  - 66
+VL  - 66
+JA  - IEEE Transactions on Engineering Management
+Y1  - Nov. 2019
+AB  - In this research, we report the empirical findings of a vignette study designed to examine how volitional computer users cope with information technology (IT) threats based on the technology threat avoidance theory (TTAT). We incorporate the construct of wishful thinking, an important form of emotion-focused coping behavior that is rarely studied, along with problem-focused coping into a research model to examine the interaction between the two coping approaches. The results reveal that wishful thinking weakens the effect of perceived avoidability on avoidance motivation. In turn, wishful thinking is positively affected by perceived threat and this effect is stronger when a user has low risk tolerance. Although perceived avoidability can reduce wishful thinking, its effect is fully mediated by perceived threat. This study highlights the important role of wishful thinking in affecting users' security behavior. It not only corroborates, but also extends the extant propositions of TTAT, thus making a significant contribution to IT security research and practice.
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic Cooperative Coevolution for Large Scale Optimization
+T2  - IEEE Transactions on Evolutionary Computation
+SP  - 935
+EP  - 948
+AU  - X. -Y. Zhang
+AU  - Y. -J. Gong
+AU  - Y. Lin
+AU  - J. Zhang
+AU  - S. Kwong
+AU  - J. Zhang
+PY  - 2019
+KW  - Optimization
+KW  - Benchmark testing
+KW  - Computational efficiency
+KW  - Estimation
+KW  - Dimensionality reduction
+KW  - Evolutionary computation
+KW  - Computer science
+KW  - Cooperative coevolution (CC)
+KW  - dynamic grouping (DyG) strategy
+KW  - large scale global optimization (LSGO)
+KW  - nonseparable problems
+DO  - 10.1109/TEVC.2019.2895860
+JO  - IEEE Transactions on Evolutionary Computation
+IS  - 6
+SN  - 1941-0026
+VO  - 23
+VL  - 23
+JA  - IEEE Transactions on Evolutionary Computation
+Y1  - Dec. 2019
+AB  - The cooperative coevolution (CC) framework achieves a promising performance in solving large scale global optimization problems. The framework encounters difficulties on nonseparable problems, where variables interact with each other. Using the static grouping methods, variables will be theoretically grouped into one big subcomponent, whereas the random grouping strategy endures low efficiency. In this paper, a dynamic CC framework is proposed to tackle the challenge. The proposed framework works in a computationally efficient manner, in which the computational resources are allocated to a series of elitist subcomponents consisting of superior variables. First, a novel estimation method is proposed to evaluate the contribution of variables using the historical information of the best overall fitness. Based on the contribution and the interaction information, a dynamic grouping strategy is conducted to construct the dynamic subcomponent that evolves in the next evolutionary period. The constructed subcomponents are different from each other, and therefore the required parameters to control the optimization of each subcomponent vary a lot in each evolutionary period. A stage-by-stage parameter adaptation strategy is proposed to adapt the optimizer to the dynamic optimization environment. Experimental results indicate that the proposed framework achieves competitive results compared with the state-of-the-art CC frameworks.
+ER  - 
+
+TY  - CONF
+TI  - Visual Design Problem-based Learning in a Virtual Environment Improves Computational Thinking and Programming Knowledge
+T2  - 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+SP  - 1588
+EP  - 1593
+AU  - A. Banic
+AU  - R. Gamboa
+PY  - 2019
+KW  - Art
+KW  - Visualization
+KW  - Virtual environments
+KW  - Programming profession
+KW  - Three-dimensional displays
+KW  - Visual Design Problem-based Pedagogy
+KW  - problem-based learning
+KW  - Online Virtual Environments
+KW  - Embodied Learning
+KW  - Virtual Sculpting
+KW  - Increase Programming Knowledge
+KW  - Spatial Art
+KW  - CCS [Human-centered Computing]: Human-computer interaction (HCI)
+KW  - Interaction paradigms-Virtual Reality
+KW  - [Human-centered Computing]: CCS Human-computer interaction (HCI)
+KW  - Empirical studies in HCI
+DO  - 10.1109/VR.2019.8798013
+JO  - 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+IS  - 
+SN  - 2642-5254
+VO  - 
+VL  - 
+JA  - 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+Y1  - 23-27 March 2019
+AB  - In this paper, we present our design of a high school summer course which uses our Visual Design Problem-based Learning Pedagogy using Virtual Environments as a strategy to teach computer science. Students solved visual design problems by creating 3D sculptures in an online virtual environment. These creations were further explored and refined in immersive display systems fostering embodied learning and remote peer presence and support. To achieve the desired design, students use programming and computing concepts, such as loops, to solve those visual design centered problems, i.e. solving for composition, positive/negative space, balance, as opposed to computational problems first, i.e. create a loop, a fractal, randomized lines, etc. We present results from a study conducted on three high school summer courses. We compared the use of our Visual Design Problem-based teaching strategy (students wrote code to solve challenges based on art and design principles) to a traditional strategy (students wrote code to demonstrate comprehension of computer science concepts). Our results showed that test scores were higher for students in our Visual Design Problem-based courses. This work may have a positive impact on computer science education by increasing engagement, knowledge acquisition, and self-directed learning.
+ER  - 
+
+TY  - CONF
+TI  - Human based genetic algorithm
+T2  - 2001 IEEE International Conference on Systems, Man and Cybernetics. e-Systems and e-Man for Cybernetics in Cyberspace (Cat.No.01CH37236)
+SP  - 3464
+EP  - 3469 vol.5
+AU  - A. Kosorukoff
+PY  - 2001
+KW  - Humans
+KW  - Genetic algorithms
+KW  - Electronics packaging
+KW  - Technological innovation
+KW  - Multiagent systems
+KW  - Genetic mutations
+KW  - Laboratories
+KW  - Genetic engineering
+KW  - Evolutionary computation
+KW  - Natural language processing
+DO  - 10.1109/ICSMC.2001.972056
+JO  - 2001 IEEE International Conference on Systems, Man and Cybernetics. e-Systems and e-Man for Cybernetics in Cyberspace (Cat.No.01CH37236)
+IS  - 
+SN  - 1062-922X
+VO  - 5
+VL  - 5
+JA  - 2001 IEEE International Conference on Systems, Man and Cybernetics. e-Systems and e-Man for Cybernetics in Cyberspace (Cat.No.01CH37236)
+Y1  - 7-10 Oct. 2001
+AB  - A new class of genetic algorithms (GA) is presented. It is based on the idea of outsourcing, a popular trend in business. In a human based genetic algorithm (HBGA), all primary genetic operators are outsourced, i.e. delegated to external human agents. A totally outsourced genetic algorithm uses both human evaluation and the human ability of innovation. It is a multi-agent environment and the mediator of communication between multiple heterogenous agents. The advantage of this approach is its ability to address complex problems for which it is hard, not only to evaluate individuals, but to find a good representation for them. These qualities allow HBGA to process flows of information without knowledge of its particular structure and representation. The suggested conceptual approach can also be used as a general model and a way of thinking about different kinds of genetic algorithms.
+ER  - 
+
+TY  - CONF
+TI  - Designing Evaluation Criteria for Disciplinary Competencies: A Case Study of Computer Science
+T2  - 2024 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1
+EP  - 4
+AU  - P. Perez-Murueta
+AU  - L. H. González-Guerra
+PY  - 2024
+KW  - Computer science
+KW  - Training
+KW  - Technological innovation
+KW  - Engineering education
+KW  - Faces
+KW  - disciplinary competencies
+KW  - criteria evaluation higher education
+KW  - educational innovation
+DO  - 10.1109/EDUCON60312.2024.10578906
+JO  - 2024 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2024 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 8-11 May 2024
+AB  - The kind of students that currently arrive in the classroom in this technological age require a learning model that promotes their motivation for learning and thus boosts their creative thinking skills to develop disciplinary and cross-cutting competencies in their courses. It is of utmost importance to provide the students with comprehensive training and improve their competitiveness in their professional field by enhancing the skills of future generations to develop both the transversal and disciplinary competencies required that will allow them to become professionals who face challenges and opportunities in their future lives. Disciplinary competencies are the minimum necessary set of knowledge, skills, and attitudes in their disciplinary field for students to perform successfully in different contexts. Traditionally, the evaluation of knowledge is used to evaluate the student's competencies in a course, and it does not usually reflect the degree of achievement of the student's competencies since these evaluations are based on specific topics and not on the acquisition of the competencies that the course should generate. The objective of this study is to design the evaluation criteria for the disciplinary competencies of Computer Science in students, as well as to measure their impact concerning the different subjects of their academic plan.
+ER  - 
+
+TY  - CONF
+TI  - Mapping New Informal Settlements Using Machine Learning and Time Series Satellite Images: An Application in the Venezuelan Migration Crisis
+T2  - 2020 IEEE / ITU International Conference on Artificial Intelligence for Good (AI4G)
+SP  - 198
+EP  - 203
+AU  - I. Tingzon
+AU  - N. Dejito
+AU  - R. A. Flores
+AU  - R. De Guzman
+AU  - L. Carvajal
+AU  - K. Z. Erazo
+AU  - I. E. Contreras Cala
+AU  - J. Villaveces
+AU  - D. Rubio
+AU  - R. Ghani
+PY  - 2020
+KW  - Time series analysis
+KW  - Satellites
+KW  - Indexes
+KW  - Earth
+KW  - Vegetation mapping
+KW  - Computational modeling
+KW  - Sociology
+KW  - poverty mapping
+KW  - informal settlements
+KW  - remote sensing
+KW  - machine learning
+DO  - 10.1109/AI4G50087.2020.9311041
+JO  - 2020 IEEE / ITU International Conference on Artificial Intelligence for Good (AI4G)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE / ITU International Conference on Artificial Intelligence for Good (AI4G)
+Y1  - 21-25 Sept. 2020
+AB  - Since 2014, nearly 2 million Venezuelans have fled to Colombia to escape an economically devastated country during what is one of the largest humanitarian crises in modern history. Non-government organizations and local government units are faced with having to identify, assess, and monitor rapidly growing migrant communities in order to provide urgent humanitarian aid. However, with many of these displaced populations living in informal settlements areas across the country, locating migrant settlements over large territories can be a major challenge. To address this problem, we propose a novel approach for rapidly and cost-effectively locating new and emerging informal settlements using machine learning and publicly accessible Sentinel-2 time series satellite imagery. We demonstrate the effectiveness of the approach in identifying potential Venezuelan migrant settlements that have emerged between 2015 and 2020 in Colombia. Finally, we emphasize the importance of post-classification verification and present a two-step validation approach consisting of (1) remote validation using Google Earth and (2) on-the-ground validation through the Premise App, a mobile crowdsourcing platform.
+ER  - 
+
+TY  - CONF
+TI  - Gamification Elements in Virtual Simulation Integrated Learning: A Quantitative Evaluation with the 5E Instructional Model
+T2  - 2024 4th International Conference on Educational Technology (ICET)
+SP  - 169
+EP  - 173
+AU  - R. Tao
+AU  - J. Tian
+AU  - L. Zhang
+AU  - J. Wan
+PY  - 2024
+KW  - Surveys
+KW  - Computational modeling
+KW  - Buildings
+KW  - Games
+KW  - Educational technology
+KW  - Programming
+KW  - Artificial intelligence
+KW  - Robots
+KW  - gamification elements
+KW  - virtual simulation
+KW  - the 5e instructional model
+KW  - AI curriculum
+DO  - 10.1109/ICET62460.2024.10869207
+JO  - 2024 4th International Conference on Educational Technology (ICET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 4th International Conference on Educational Technology (ICET)
+Y1  - 13-15 Sept. 2024
+AB  - Programming and robot building are two crucial components in an AI curriculum, while students' learning goal attainment, computational thinking improvement, and autonomous learning improvement are important dimensions to measure students' learning outcomes. In previous teaching practice, virtual simulation platforms are often used as teaching aids, and the operational difficulty of the platforms may reduce students' interest in learning, thus lowering the learning effect. Therefore, based on the 5E teaching model, this study combines gamification elements with virtual simulation integrated learning to explore its effects on the three dimensions of students' learning goal attainment, computational thinking improvement, and autonomous learning improvement.
+ER  - 
+
+TY  - CONF
+TI  - Swarm Intelligence to estimate human foreseeability
+T2  - 2012 International Conference on Computing, Communication and Applications
+SP  - 1
+EP  - 6
+AU  - R. K. Swain
+AU  - N. K. Kamila
+AU  - B. B. Misra
+PY  - 2012
+KW  - Humans
+KW  - Particle swarm optimization
+KW  - Artificial intelligence
+KW  - Cognition
+KW  - Animals
+KW  - Computational modeling
+KW  - Educational institutions
+KW  - Foreseeability
+KW  - Swarm Intelligence
+KW  - Thinking about thinking
+KW  - Particle Swarm Optimization
+DO  - 10.1109/ICCCA.2012.6179218
+JO  - 2012 International Conference on Computing, Communication and Applications
+IS  - 
+SN  - 2325-601X
+VO  - 
+VL  - 
+JA  - 2012 International Conference on Computing, Communication and Applications
+Y1  - 22-24 Feb. 2012
+AB  - Many researchers have suggested different approach to map the thinking about thinking. However little has been done to evaluate it computationally. In this paper, we propose a technique based on Swarm Intelligence to estimate the human foreseeability. The statistics of moral reasoner of UCI machine learning repository has been used to validate this work. A number of rule sets have been developed to assess the human foreseeability to a reasonable extent. Further an analysis is presented on the impact of human features on foreseeability.
+ER  - 
+
+TY  - CONF
+TI  - Exploration of Teaching Reform for C Programming Course Based on OBE-BOPPPS Model and Rain Classroom
+T2  - 2021 International Conference on Education, Information Management and Service Science (EIMSS)
+SP  - 467
+EP  - 470
+AU  - W. Yongfen
+AU  - C. Weiwei
+AU  - L. Zhigang
+AU  - L. Yong
+AU  - S. Lei
+AU  - L. Ying
+PY  - 2021
+KW  - Analytical models
+KW  - Rain
+KW  - Distance learning
+KW  - Computational modeling
+KW  - Education
+KW  - C languages
+KW  - Tools
+KW  - BOPPPS
+KW  - OBE
+KW  - teaching design
+KW  - rain classroom
+KW  - C programming
+DO  - 10.1109/EIMSS53851.2021.00106
+JO  - 2021 International Conference on Education, Information Management and Service Science (EIMSS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 International Conference on Education, Information Management and Service Science (EIMSS)
+Y1  - 16-18 July 2021
+AB  - As an introductory language required to learn programming, C language opens the door of programming world to students and improves their computational thinking ability. Under the guidance of OBE-BOPPPS teaching model, combined with the online teaching tools of rain classroom, the blended teaching model was explored in this study. The teaching practice indicates that the aforementioned teaching means, if comprehensively applied, can facilitate to cultivate students' high-order cognitive competence and further enhance their computational thinking ability. In the end, the teaching effect was assessed based on the performance comparison results.
+ER  - 
+
+TY  - CONF
+TI  - Discovering Programming Talent and Improving Learning Motivation with CodeCombat in K-12 Education
+T2  - 2024 IEEE World Engineering Education Conference (EDUNINE)
+SP  - 1
+EP  - 6
+AU  - W. C. Choi
+AU  - I. C. Choi
+PY  - 2024
+KW  - Correlation
+KW  - Search problems
+KW  - Boosting
+KW  - Engineering education
+KW  - Programming profession
+KW  - Python
+KW  - CodeCombat
+KW  - K-12 programming education
+KW  - Programming talent search
+KW  - Learning motivation
+DO  - 10.1109/EDUNINE60625.2024.10500458
+JO  - 2024 IEEE World Engineering Education Conference (EDUNINE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE World Engineering Education Conference (EDUNINE)
+Y1  - 10-13 March 2024
+AB  - Nurturing programming talent early is crucial in today's digital world, especially in K-12 education, underscored by the rise of programming competitions for younger students. However, with limited research in programming talent search, discovering programming talent in primary schools posed a significant challenge. Traditionally, various test-based talent search tools have been utilized for programming talent identification, including the Computer Talent Search Test (CTST) and the Beginners Computational Thinking Test (BCTt). Game-based platforms like CodeCombat offer an engaging alternative to overcome this challenge. CodeCombat integrates game-based learning with programming education, allowing students to apply their computational thinking skills in an enjoyable context for learning Python. The study revealed a significant correlation between CodeCombat, CTST, and BCTt outcomes. This highlighted that CodeCombat emerged as a valuable platform for talent search, aligning seamlessly with the objectives of the test-based tools and suggesting its effectiveness in boosting programming learning motivation in primary school.
+ER  - 
+
+TY  - CONF
+TI  - Little Engineers: Young Children's Learning Patterns in an Educational Robotics Project
+T2  - 2018 World Engineering Education Forum - Global Engineering Deans Council (WEEF-GEDC)
+SP  - 1
+EP  - 5
+AU  - P. -N. Chou
+PY  - 2018
+KW  - Robots
+KW  - Programming profession
+KW  - Problem-solving
+KW  - Training
+KW  - Task analysis
+KW  - K–5 Engineering Education
+KW  - Educational Robotics
+KW  - Computational Thinking
+DO  - 10.1109/WEEF-GEDC.2018.8629609
+JO  - 2018 World Engineering Education Forum - Global Engineering Deans Council (WEEF-GEDC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 World Engineering Education Forum - Global Engineering Deans Council (WEEF-GEDC)
+Y1  - 12-16 Nov. 2018
+AB  - This short paper aimed to investigate how young children as little computer engineers learned in an educational robotics project. Student participants were 11 third graders at one public elementary school in Taiwan. The project in an after-school learning program lasted for five weeks. During weekly learning session, each student needed to use one visual block programming called Ozoblockly to design action patterns for their robots (Ozobot). The study adopted a case study methodology to examine the specific learning scenario. The principal researcher used a participant observation method to observe students' learning behaviors, informal after-class interviews to collect students' learning responses, and a portfolio analysis approach to examine students' programming works. The findings showed that students might obtain a basic understanding of a computer engineer after the instructional intervention. Furthermore, some specific learning patterns from young children's programming process were identified.
+ER  - 
+
+TY  - CONF
+TI  - Exploration and practice of online and offline mixed teaching mode based on PBL in basic computer courses
+T2  - 2021 International Symposium on Advances in Informatics, Electronics and Education (ISAIEE)
+SP  - 101
+EP  - 105
+AU  - H. Liu
+AU  - S. Li
+AU  - Y. Xiao
+PY  - 2021
+KW  - Epidemics
+KW  - Computer aided instruction
+KW  - Electronic learning
+KW  - Distance learning
+KW  - Education
+KW  - Transforms
+KW  - Market research
+KW  - PBL
+KW  - Online and Offline Hybrid Teaching
+KW  - Computational Thinking
+DO  - 10.1109/ISAIEE55071.2021.00032
+JO  - 2021 International Symposium on Advances in Informatics, Electronics and Education (ISAIEE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 International Symposium on Advances in Informatics, Electronics and Education (ISAIEE)
+Y1  - 17-19 Dec. 2021
+AB  - The epidemic situation in 2020 has promoted the development of online education. After the epidemic, in order to make full use of various online education resources, we began to explore online and offline hybrid teaching. In order to improve students' learning interest and enthusiasm, PBL is combined with online and offline teaching mode, and the implementation of teaching mode and teaching effect are introduced.
+ER  - 
+
+TY  - CONF
+TI  - Larger Language Models Don’t Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks
+T2  - ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+SP  - 1
+EP  - 5
+AU  - G. Chochlakis
+AU  - N. M. Pandiyan
+AU  - K. Lerman
+AU  - S. Narayanan
+PY  - 2025
+KW  - Codes
+KW  - Large language models
+KW  - Computational modeling
+KW  - Natural languages
+KW  - Signal processing
+KW  - Predictive models
+KW  - Benchmark testing
+KW  - Cognition
+KW  - Computational efficiency
+KW  - Speech processing
+KW  - Large Language Models
+KW  - Chain of Thought
+KW  - Emotions
+KW  - Morality
+KW  - Priors
+KW  - Posterior
+DO  - 10.1109/ICASSP49660.2025.10887804
+JO  - ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+IS  - 
+SN  - 2379-190X
+VO  - 
+VL  - 
+JA  - ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+Y1  - 6-11 April 2025
+AB  - In-Context Learning (ICL) in Large Language Models (LLM) has emerged as the dominant technique for performing natural language tasks, as it does not require updating the model parameters with gradient-based methods. ICL promises to "adapt" the LLM to perform the present task at a competitive or state-of-the-art level at a fraction of the computational cost. ICL can be augmented by incorporating the reasoning process to arrive at the final label explicitly in the prompt, a technique called Chain-of-Thought (CoT) prompting. However, recent work has found that ICL relies mostly on the retrieval of task priors and less so on "learning" to perform tasks, especially for complex subjective domains like emotion and morality, where priors ossify posterior predictions. In this work, we examine whether "enabling" reasoning also creates the same behavior in LLMs, wherein the format of CoT retrieves reasoning priors that remain relatively unchanged despite the evidence in the prompt. We find that, surprisingly, CoT indeed suffers from the same posterior collapse as ICL for larger language models. Code is available at https://github.com/gchochla/cot-priors.
+ER  - 
+
+TY  - CONF
+TI  - Designing a high school computational thinking test using evidence-centered design
+T2  - International Conference on Technological Innovation and AI Research (ICTIAIR 2025)
+SP  - 17
+EP  - 24
+AU  - A. Gomez
+AU  - R. Guzman-Jimenez
+AU  - J. Cardenas-Garro
+PY  - 2025
+DO  - 10.1049/icp.2025.1239
+JO  - International Conference on Technological Innovation and AI Research (ICTIAIR 2025)
+IS  - 
+SN  - 
+VO  - 2025
+VL  - 2025
+JA  - International Conference on Technological Innovation and AI Research (ICTIAIR 2025)
+Y1  - 19-21 March 2025
+AB  - The development of computational thinking as a cognitive skill is crucial in the digital age. However, there remains no consensus on its definition or measurement. This study aims to address this gap by developing an instrument to estimate the level of computational thinking using an evidence-centered design approach. The proposed framework integrates cognitive theory, educational research, and psychometric modeling to create a comprehensive and reliable assessment tool. The instrument consists of two scenarios with a total of 59 items divided into six questions. It was validated by experts in the field, achieving a content validity index of 0.76. The test was administered to a sample of 100 students from three secondary schools in Lima, Peru, and analyzed using Bayesian confirmatory factor analysis and parametric tests. The results indicate that the model effectively assesses algorithmic thinking, critical thinking, and problem solving skills, regardless of prior programming experience. However, the assessment of creativity requires further refinement. This research contributes to evidence-based educational policy and practice in secondary education, offering a foundation for future improvements in the evaluation of computational thinking.
+ER  - 
+
+TY  - CONF
+TI  - Frontier exploration of internet thinking and case study
+T2  - 2016 International Conference on Logistics, Informatics and Service Sciences (LISS)
+SP  - 1
+EP  - 6
+AU  - L. Li
+AU  - S. Liu
+AU  - K. Zhang
+PY  - 2016
+KW  - Internet
+KW  - Technological innovation
+KW  - Companies
+KW  - Computational modeling
+KW  - Big data
+KW  - Internet Thinking
+KW  - Definition
+KW  - The Components
+KW  - Case Study
+DO  - 10.1109/LISS.2016.7854402
+JO  - 2016 International Conference on Logistics, Informatics and Service Sciences (LISS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Logistics, Informatics and Service Sciences (LISS)
+Y1  - 24-27 July 2016
+AB  - Traditional enterprises should change their marketing strategy, business model, organizational structure and etc. to cope with the new market in the Internet age. Duo to the above requirement, the conception of Internet Thinking (IT) is created in China. Although many scholars have done a lot of research on this field about the company operating at the context of Internet and a few Chinese researchers begin to pay attention to Internet Thinking. The existing research focused on the specific points without a systematic view. This paper try to integrate different points of view and combine with the practice of Chinese market to figure out what is Internet Thinking. The first, some key words of Internet Thinking are extracted from literature review and practice in business world; the second, the components involved are analyzed and the definition is given; at last, the company of Xiaomi will be taken as the case to test the model.
+ER  - 
+
+TY  - CONF
+TI  - Two types of anticipation in sensory-motor coupling
+T2  - SICE 2003 Annual Conference (IEEE Cat. No.03TH8734)
+SP  - 551
+EP  - 556 Vol.1
+AU  - Y. Miyake
+AU  - Y. Onishi
+AU  - E. Popper
+PY  - 2003
+KW  - Timing
+KW  - Resource management
+KW  - Automatic control
+KW  - Feeds
+KW  - Buffer storage
+KW  - Computational intelligence
+KW  - Psychology
+KW  - Control systems
+KW  - Humans
+KW  - Intersymbol interference
+DO  - 
+JO  - SICE 2003 Annual Conference (IEEE Cat. No.03TH8734)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - SICE 2003 Annual Conference (IEEE Cat. No.03TH8734)
+Y1  - 4-6 Aug. 2003
+AB  - The anticipatory timing control in sensory-motor coupling is indispensable to generate coordinative movement among humans, however its cognitive mechanism still remains obscure. In this study we used synchronization tapping task as a model system, and negative asynchrony phenomenon where the tap onset precedes the stimulus onset was analyzed as an example of the anticipation. Especially, applying dual task method, the relationship between the anticipation mechanism and the higher brain function such as attention and working memory was investigated. The results revealed two types of anticipatory timing control. In the inter stimulus-onset interval (ISI) range of 450 to 1800 ms, automatic anticipation that is not affected by attentional resources was observed and was based on feed forward dynamics. In the 2400 to 3600 ms range, the anticipation showed trade-off relationship in the allocation of attentional resources. Magnitude of synchronization error (SE) between tap onset and stimulus onset in this region was scaled by the ISI and the feed back dynamics concerning ISI was suggested. Accordingly, anticipation in timing control was shown to be a dual processing between the attentional process and the embodied automatic process.
+ER  - 
+
+TY  - CONF
+TI  - Application and Fusion Analysis of Advanced Mathematical Modeling Thought Based on Computer Technology in University Teaching
+T2  - 2024 5th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+SP  - 49
+EP  - 52
+AU  - Y. Hu
+AU  - S. Shi
+PY  - 2024
+KW  - Economics
+KW  - Adaptation models
+KW  - Analytical models
+KW  - Computational modeling
+KW  - Biological system modeling
+KW  - Education
+KW  - Social sciences
+KW  - Stochastic processes
+KW  - Mathematical models
+KW  - Software engineering
+KW  - Advanced Mathematics
+KW  - Mathematical Modeling
+KW  - Computational Tools
+KW  - Curriculum Integration
+DO  - 10.1109/ICBASE63199.2024.10762190
+JO  - 2024 5th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 5th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+Y1  - 20-22 Sept. 2024
+AB  - Advanced mathematics is a fundamental subject in college education, essential for developing students’ analytical and problem-solving skills. It forms the basis for many advanced topics and is crucial for a well-rounded academic foundation. Mathematical modeling, on the other hand, is a powerful tool for addressing real-world problems by creating abstract models. It is widely applied in fields like economics, industry, medicine, and social sciences. With the rapid advancement of computer technology, mathematical modeling has evolved significantly. Tools like MATLAB have become essential for developing and analyzing complex models, enabling the resolution of intricate problems that are difficult to solve manually. The integration of computer technology into mathematical modeling enhances both the efficiency and accuracy of problem-solving.Given these advancements, it is crucial for colleges and universities to incorporate computer-based mathematical modeling into their curriculum. By integrating these techniques into advanced mathematics courses, educators can create a more cohesive learning experience that combines theoretical knowledge with practical applications. This approach not only improves the quality of mathematics education but also better prepares students to apply their mathematical skills to real-world challenges, equipping them for professional success in a rapidly changing world.
+ER  - 
+
+TY  - CONF
+TI  - Design optimization by discrete flow computing and Morse technique
+T2  - 5th International Conference on Pervasive Computing and Applications
+SP  - 223
+EP  - 227
+AU  - X. Liu
+AU  - W. Sun
+AU  - J. Zhang
+PY  - 2010
+KW  - Design optimization
+KW  - Computational modeling
+KW  - Mathematical model
+KW  - Biological system modeling
+KW  - Sun
+KW  - Art
+KW  - Face
+KW  - Design Computing
+KW  - Computational Intelligence
+KW  - Morse Theory
+DO  - 10.1109/ICPCA.2010.5704102
+JO  - 5th International Conference on Pervasive Computing and Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 5th International Conference on Pervasive Computing and Applications
+Y1  - 1-3 Dec. 2010
+AB  - The purpose of this paper is to propose a new design optimization technique based on flow computing and Morse theory. The basic idea is based on previous works by the authors on evolutionary architecture paradigm of evolving architectural form. Models will evolve according to a descending flow. Mathematical models include analytical functions, parametric functions and other nonlinear functions will be used to describe the design models. We also present analysis of relationship between evolution and exploration.
+ER  - 
+
+TY  - CONF
+TI  - A computational model of team assembly in emerging scientific fields
+T2  - 2015 Winter Simulation Conference (WSC)
+SP  - 4057
+EP  - 4068
+AU  - A. Lungeanu
+AU  - S. Sullivan
+AU  - U. Wilensky
+AU  - N. S. Contractor
+PY  - 2015
+KW  - Ecosystems
+KW  - Computational modeling
+KW  - Collaboration
+KW  - Data models
+KW  - System dynamics
+KW  - Adaptation models
+KW  - Databases
+DO  - 10.1109/WSC.2015.7408559
+JO  - 2015 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2015 Winter Simulation Conference (WSC)
+Y1  - 6-9 Dec. 2015
+AB  - This paper examines the assembly of interdisciplinary teams in emerging scientific fields. We develop and validate a hybrid systems dynamics and agent-based computational model using data over a 15 year period from the assembly of teams in the emerging scientific field of Oncofertility. We found that, when a new field emerges, team assembly is influenced by the reputation and seniority of the researchers, prior collaborators, prior collaborators' collaborators, and the prior popularity of an individual as a collaborator by all others. We also found that individuals are more likely to assemble into an Oncofertility team when there is a modicum of overlap across its global ecosystem of teams; the ecosystem is defined as the collection of teams that share members with other teams that share members with the Oncofertility team.
+ER  - 
+
+TY  - CONF
+TI  - The IEEE Computer Society Smart Grid Vision Project opens opportunites for computational intelligence
+T2  - 2013 IEEE Conference on Evolving and Adaptive Intelligent Systems (EAIS)
+SP  - 144
+EP  - 150
+AU  - D. Cartes
+AU  - J. H. Chow
+AU  - D. McCaugherty
+AU  - S. Widergren
+AU  - G. Kumar Venayagamoorthy
+PY  - 2013
+KW  - Smart grids
+KW  - Computational intelligence
+KW  - Conferences
+KW  - Computers
+KW  - Economics
+KW  - Power system dynamics
+KW  - Adaptive critics
+KW  - computers
+KW  - computational intelligence
+KW  - intelligent multi-agents
+KW  - smart grid
+DO  - 10.1109/EAIS.2013.6604117
+JO  - 2013 IEEE Conference on Evolving and Adaptive Intelligent Systems (EAIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE Conference on Evolving and Adaptive Intelligent Systems (EAIS)
+Y1  - 16-19 April 2013
+AB  - The IEEE Computer Society Smart Grid Vision Project (CS-SGVP) was chartered to develop Smart Grid visions looking forward as far as 30 years into the future. At the completion of the project it was realized that to address the complexity of a Smart Grid with vast numbers of intelligent connected devices and systems, computational intelligence techniques must move from top-down to the lowest levels of architectures, with interactive cooperation between smart components, each with a level of autonomy. The CS-SGVP team emphasized creative thought leadership and “blue sky” thinking to identify future Smart Grid operational visions and the role of computing to achieve these visions. The CS-SGVP team developed its visions using a three-tiered approach. Architectural concepts describe Smart Grid goals and characteristics, general grid types, as well as computing concepts considered common across grid types. Functional concepts describe how the grid will operate. Technological concepts describe the roles of certain technologies within the Smart Grid. The CS-SGVP expects that over the course of many years, various visions will come to fruition.
+ER  - 
+
+TY  - JOUR
+TI  - Think4SCND: Reinforcement Learning With Thinking Model for Dynamic Supply Chain Network Design
+T2  - IEEE Access
+SP  - 195974
+EP  - 195985
+AU  - P. Li
+AU  - S. Ren
+AU  - Q. Zhang
+AU  - X. Wang
+AU  - Y. Liu
+PY  - 2024
+KW  - Supply chains
+KW  - Adaptation models
+KW  - Optimization
+KW  - Inventory management
+KW  - Training
+KW  - Deep reinforcement learning
+KW  - Costs
+KW  - Games
+KW  - Decision making
+KW  - Computational modeling
+KW  - Supply chain network design
+KW  - inventory management
+KW  - reinforcement learning
+KW  - thinking model
+KW  - transformer network
+DO  - 10.1109/ACCESS.2024.3521439
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - Supply chain network design is a critical strategic challenge that significantly influences operational efficiency and competitiveness in the global marketplace. This paper introduces Think4SCND, a novel deep reinforcement learning framework that addresses the dynamic complexities of supply chain network design by integrating a Supply Chain Transformer Network with a Thinking Model. Our approach formulates the supply chain network design problem as a Markov Decision Process, developing an architecture capable of handling mixed discrete-continuous action spaces. The core innovation lies in the Thinking Model, which enhances the Supply Chain Transformer Network’s ability to reason about future states and evaluate decision sequences, enabling more informed and forward-looking decision-making. We propose an end-to-end training algorithm that effectively combines model-free reinforcement learning with model-based planning. Extensive experiments on both synthetic and real-world datasets show that Think4SCND significantly outperforms state-of-the-art baselines, achieving near-optimal solutions with a fraction of the computational cost. The framework demonstrates superior adaptability to disruptions and strong generalization capabilities, successfully transferring knowledge from medium-sized problems to larger, unseen instances.
+ER  - 
+
+TY  - CONF
+TI  - The economical simulation problem
+T2  - 42nd IEEE International Conference on Decision and Control (IEEE Cat. No.03CH37475)
+SP  - 4991
+EP  - 4996 Vol.5
+AU  - Faming Li
+AU  - R. E. Skelton
+PY  - 2003
+KW  - Computational modeling
+KW  - Electrostatic precipitators
+KW  - Hardware
+KW  - Digital simulation
+KW  - Linear systems
+KW  - Distributed computing
+KW  - Computational efficiency
+KW  - Large-scale systems
+KW  - Aerospace engineering
+KW  - Aerodynamics
+DO  - 10.1109/CDC.2003.1272420
+JO  - 42nd IEEE International Conference on Decision and Control (IEEE Cat. No.03CH37475)
+IS  - 
+SN  - 0191-2216
+VO  - 5
+VL  - 5
+JA  - 42nd IEEE International Conference on Decision and Control (IEEE Cat. No.03CH37475)
+Y1  - 9-12 Dec. 2003
+AB  - Think of a digital simulation as a computational device for which one must allocate three computational resources for computing: (a) the given inputs, (b) the outputs and (c) each state variable in the dynamics. This paper assigns these computational resources to guarantee a specified bound on response errors. We define the economical simulation problem (ESP) as designing the simulation of a stable linear system and distributing computational resources (wordlength) among the digital devices such that the computational cost (memory) is minimized without violating the required simulation accuracy. This problem is generally not convex because of the scaling constraint. By exploring the special structure of this joint optimization of the choice of the realizations and the computational resources to be applied, and under a scaling assumption, the ESP is converted to a convex problem. Numerical results are given which compare this method with existing approaches.
+ER  - 
+
+TY  - CONF
+TI  - Reform on college fundamentals of computer course based on mobile computing
+T2  - 2016 11th International Conference on Computer Science & Education (ICCSE)
+SP  - 890
+EP  - 893
+AU  - X. Liu
+AU  - H. Xu
+PY  - 2016
+KW  - Computers
+KW  - Programming
+KW  - Education
+KW  - Problem-solving
+KW  - Mobile applications
+KW  - Databases
+KW  - App Inventor
+KW  - computational thinking
+KW  - fundamentals of Computer
+KW  - mobile computing
+DO  - 10.1109/ICCSE.2016.7581699
+JO  - 2016 11th International Conference on Computer Science & Education (ICCSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 11th International Conference on Computer Science & Education (ICCSE)
+Y1  - 23-25 Aug. 2016
+AB  - Fundamentals of Computer is a compulsory course of non-majors in many universities of China. In this paper, we explore the reform on this course for two goals. One is to redesign the teaching content: from operation oriented to computational thinking oriented. Computational thinking is one of the most important ability for 21st century and has become the primary goal of computer foundation education. New content covers the basic principles of computer science as well as the fundamental ways of thinking and problem solving with computer. The second goal is to improve teaching methods by leveraging mobile technology. We propose the use of MIT App Inventor, which is a simple tool for creating mobile applications for Android. Students with no prior knowledge of programming can create entertaining and socially useful applications with App Inventor while practicing computational thinking.
+ER  - 
+
+TY  - CONF
+TI  - Making Figures for Class Materials Using KETpic Based on Symbolic Thinking
+T2  - 2011 International Conference on Computational Science and Its Applications
+SP  - 93
+EP  - 101
+AU  - S. Yamashita
+AU  - S. Takato
+PY  - 2011
+KW  - Materials
+KW  - Graphics
+KW  - Eigenvalues and eigenfunctions
+KW  - Three dimensional displays
+KW  - Writing
+KW  - Mathematical model
+KW  - CAS
+KW  - KETpic
+KW  - metacognition
+KW  - symbolic thinking
+KW  - modularization of mathematical operations
+KW  - Scilab
+DO  - 10.1109/ICCSA.2011.48
+JO  - 2011 International Conference on Computational Science and Its Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 International Conference on Computational Science and Its Applications
+Y1  - 20-23 June 2011
+AB  - Many mathematics teachers produce original course materials with figures because their use enables students to comprehend mathematical objects. This paper presents a model for producing effective figures for use in course materials. LaTeX is often used to edit course materials and they often use computer algebra system (CAS) to insert graphical image files into the materials. We developed KETpic as a plug-in based on CAS to insert precise and expressive figures into a LaTeX document. After KETpic generates LaTeX-readable codes, the resultant figure is a monochrome, high-quality line drawing. Consequently, teachers can easily improve the quality of their materials. When they produce a figure using KETpic, they can perform mathematical operations as they consider combinations of KETpic commands as mathematical symbols. We designate this mathematical activity as symbolic thinking. By performing symbolic thinking, they need not be overly concerned about writing a program for CAS. Instead, they can concentrate on consideration of more important matters of cognition such as producing an effective figure. They require an advantageous environment in which they can easily perform symbolic thinking. This paper presents two sufficient conditions for this environment: (i) they produce new KETpic commands as the modularization of mathematical operations that they frequently use, and (ii) they create an original package of new KETpic commands. In this paper, we present some examples for these propositions using KETpic based on Scilab.
+ER  - 
+
+TY  - CONF
+TI  - Possible connecting areas of education and intelligent systems
+T2  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+SP  - 51
+EP  - 56
+AU  - R. Ősz
+AU  - J. Fodor
+PY  - 2013
+KW  - Materials
+KW  - Education
+KW  - Fuzzy logic
+KW  - Uncertainty
+KW  - Fuzzy sets
+KW  - Intelligent systems
+KW  - education
+KW  - intelligent systems
+KW  - fuzzy logic
+DO  - 10.1109/ICCCyb.2013.6617560
+JO  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+Y1  - 8-10 July 2013
+AB  - As more and more developed ICT devices appear more and more frequently, these become natural attributes of life for the contemporary “digital generation”. For the generation which grew up in the e-world, it was natural that their everyday activities were tied to the possibilities offered by the networks. These challenges could not leave the pedagogical science cold either. It tried to comply with the generation challenges from the very beginning. It tried to “borrow” those technical devices, theories and methods, which were already applied successfully by other fields of science, adjusting its own learning methods, teaching and learning models and learning environments to them. In our article, we try to draw a parallel between the system of engineering and pedagogy. Furthermore, we would like to map the new trends of pedagogy, which are possible on the basis of the logics of engineering.
+ER  - 
+
+TY  - CONF
+TI  - Notice of Retraction: Probe into the Teaching of Probability Theory and Stochastic Process
+T2  - 2009 International Conference on Computational Intelligence and Software Engineering
+SP  - 1
+EP  - 4
+AU  - C. -x. Li
+AU  - S. -m. Zhang
+PY  - 2009
+DO  - 10.1109/CISE.2009.5366432
+JO  - 2009 International Conference on Computational Intelligence and Software Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 International Conference on Computational Intelligence and Software Engineering
+Y1  - 11-13 Dec. 2009
+AB  - Retracted.
+ER  - 
+
+TY  - CONF
+TI  - A grid-enabled PSE for physical simulation: experiences on GridPSi
+T2  - First International Conference on e-Science and Grid Computing (e-Science'05)
+SP  - 8 pp.
+EP  - 485
+AU  - Zhou Jun
+AU  - Y. Umetani
+PY  - 2005
+KW  - Grid computing
+KW  - Computational modeling
+KW  - Problem-solving
+KW  - IP networks
+KW  - Power engineering and energy
+KW  - Computer science
+KW  - Power engineering computing
+KW  - Usability
+KW  - Physics computing
+KW  - Mesh generation
+DO  - 10.1109/E-SCIENCE.2005.6
+JO  - First International Conference on e-Science and Grid Computing (e-Science'05)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - First International Conference on e-Science and Grid Computing (e-Science'05)
+Y1  - 5-8 July 2005
+AB  - As the power of computational grids increases, there is a corresponding need for better usability in PSE community. In this paper, we describe our experiences on design of project GridPSi, a grid-enabled PSE for physical simulation. GridPSi provides a rich suite of functions that facilitate the composition of computational scripts to automate physical simulations by design domain-specific templates for a verity of research fields. The generic functionality provided by it includes problem modeling, mesh file conversion, computational script generation, solution scheme specification and access to grid resources. GridPSi offers a simple interface that is intuitive to users in the human-PSE interactions and ways of thinking. Furthermore, we developed higher-level graphical components named PDE wizards that build upon the core functions to guide users through problem modeling process with minimum effort. By using Unicore as grid middleware, we are lowering the barriers to entry for users wishing to exploit grid technologies
+ER  - 
+
+TY  - CONF
+TI  - Developing Solutions for Healthcare — Deploying Artificial Intelligence to an Evolving Target
+T2  - 2017 International Conference on Computational Science and Computational Intelligence (CSCI)
+SP  - 1637
+EP  - 1642
+AU  - A. Ala-Kitula
+AU  - K. Talvitie-Lamberg
+AU  - P. Tyrväinen
+AU  - M. Silvennoinen
+PY  - 2017
+KW  - Health Information Systems Innovation
+KW  - Information Technologies for Healthcare Delivery and Management
+KW  - Artificial Intelligence in Health Informatics
+KW  - Design thinking
+DO  - 10.1109/CSCI.2017.285
+JO  - 2017 International Conference on Computational Science and Computational Intelligence (CSCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 International Conference on Computational Science and Computational Intelligence (CSCI)
+Y1  - 14-16 Dec. 2017
+AB  - The pace of deploying artificial intelligence (AI) techniques to healthcare has been speeding up. Many of the initiatives have been technology driven aiming at finding problems matching the new technology while systematic, demand driven search for solutions has been limited. Here we describe the process of identifying opportunities for deploying artificial intelligence to healthcare and social services on regional and national levels in Finland. The process includes idea generation and elaboration using a design thinking method complemented with architectural design for identifying required AI capabilities for the 34 best use cases. In this paper, we focus on the development of use case “Mobile Solution for Home Care Coordination and Communication” to observe the evolving balance of technology push and demand pull faced in the process.
+ER  - 
+
+TY  - CONF
+TI  - Does it matter how well I know what you’re thinking? Opponent Modelling in an RTS game
+T2  - 2020 IEEE Congress on Evolutionary Computation (CEC)
+SP  - 1
+EP  - 8
+AU  - J. Goodman
+AU  - S. Lucas
+PY  - 2020
+KW  - Games
+KW  - Computational modeling
+KW  - Force
+KW  - Planning
+KW  - Adaptation models
+KW  - Robustness
+KW  - Predictive models
+KW  - Opponent Modelling
+KW  - Real-Time Strategy
+KW  - Statistical Forward Planning
+KW  - Evolutionary Algorithms
+KW  - Monte Carlo Tree Search
+DO  - 10.1109/CEC48606.2020.9185512
+JO  - 2020 IEEE Congress on Evolutionary Computation (CEC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE Congress on Evolutionary Computation (CEC)
+Y1  - 19-24 July 2020
+AB  - Opponent Modelling tries to predict the future actions of opponents, and is required to perform well in multiplayer games. There is a deep literature on learning an opponent model, but much less on how accurate such models must be to be useful. We investigate the sensitivity of Monte Carlo Tree Search (MCTS) and a Rolling Horizon Evolutionary Algorithm (RHEA) to the accuracy of their modelling of the opponent in a simple Real-Time Strategy game. We find that in this domain RHEA is much more sensitive to the accuracy of an opponent model than MCTS. MCTS generally does better even with an inaccurate model, while this will degrade RHEA's performance. We show that faced with an unknown opponent and a low computational budget it is better not to use any explicit model with RHEA, and to model the opponent's actions within the tree as part of the MCTS algorithm.
+ER  - 
+
+TY  - JOUR
+TI  - Naive mechanics: a computational model of device use and function in design improvisation
+T2  - IEEE Expert
+SP  - 14
+EP  - 27
+AU  - J. Hodges
+PY  - 1992
+KW  - Computational modeling
+KW  - Lifting equipment
+KW  - Humans
+KW  - Problem-solving
+KW  - Design engineering
+KW  - Systems engineering and theory
+KW  - Zinc
+KW  - Graphics
+KW  - Art
+DO  - 10.1109/64.120684
+JO  - IEEE Expert
+IS  - 1
+SN  - 2374-9407
+VO  - 7
+VL  - 7
+JA  - IEEE Expert
+Y1  - Feb. 1992
+AB  - The EDISON project, which is developing computational models that can solve problems and reason creatively about mechanical devices, is discussed. The project addresses two general issues: the breadth of and interactions between knowledge needed for creative reasoning, and the amount of knowledge needed to describe mechanical devices, their behavior, function, and use. This approach supports mechanical improvisation by applying the concept of device functional equivalence in different situations. The discussion covers the following: two classes of individual objects used by EDISON, device behavior and function, device use in problem-solving situations, and functional similarity and improvisation.<>
+ER  - 
+
+TY  - JOUR
+TI  - Computational Models of Human Decision-Making with Application to the Internet of Everything
+T2  - IEEE Wireless Communications
+SP  - 152
+EP  - 159
+AU  - S. Maghsudi
+AU  - M. Davy
+PY  - 2021
+KW  - Computational modeling
+KW  - Wireless communication
+KW  - Ubiquitous computing
+KW  - Internet of Things
+KW  - Optimization
+KW  - Wireless sensor networks
+KW  - Predictive models
+KW  - Decision making
+DO  - 10.1109/MWC.001.2000250
+JO  - IEEE Wireless Communications
+IS  - 1
+SN  - 1558-0687
+VO  - 28
+VL  - 28
+JA  - IEEE Wireless Communications
+Y1  - February 2021
+AB  - The concept of the Internet of Things (IoT) first appeared a few decades ago. Today, by the ubiquitous wireless connectivity, the boost of machine learning and artificial intelligence, and the advances in big data analytics, it is safe to say that IoT has evolved to a new concept called the Internet of Everything (IoE) or the Internet of All. IoE has four pillars, things, human, data, and processes, which render it as an inhomogeneous large-scale network. A crucial challenge of such a network is to develop management, analysis, and optimization policies that besides utility-maximizer machines, also take irrational humans into account. We discuss several networking applications in which appropriate modeling of human decision-making is vital. We then provide a brief review of computational models of human decision-making. Based on one such model, we develop a solution for a task offloading problem in fog computing and we analyze the implications of including humans in the loop.
+ER  - 
+
+TY  - JOUR
+TI  - A Computational Model of Focused Attention Meditation and Its Transfer to a Sustained Attention Task
+T2  - IEEE Transactions on Affective Computing
+SP  - 329
+EP  - 339
+AU  - A. J. Moye
+AU  - M. K. van Vugt
+PY  - 2021
+KW  - Computational modeling
+KW  - Mood
+KW  - Monitoring
+KW  - Mathematical model
+KW  - Predictive models
+KW  - Emotion recognition
+KW  - Focused attention meditation
+KW  - mindfulness
+KW  - sustained attention
+KW  - SART
+KW  - Prims
+KW  - transfer
+KW  - emotion regulation
+DO  - 10.1109/TAFFC.2019.2908172
+JO  - IEEE Transactions on Affective Computing
+IS  - 2
+SN  - 1949-3045
+VO  - 12
+VL  - 12
+JA  - IEEE Transactions on Affective Computing
+Y1  - 1 April-June 2021
+AB  - Meditation has been shown to aid with the management of affective disorders through improving emotion regulation. Here we begin to develop a theory of meditation by creating a computational cognitive model of focused attention meditation. Our model was created within Prims, a derivative of the ACT-R cognitive architecture. We implemented a model based on an extensive literature review of how the meditation experience unfolds over time. We then tested the Prims model in a sustained attention task, intending to capture a faculty that may be trained with meditation practice. The model was significantly better able to maintain focus after the meditation practice than before. These results agree qualitatively with empirical findings of a longitudinal study on the effects of meditation conducted in 2010. The central mechanism for increasing task relevant focus in the model seems to be a feedback loop. The meditation and mind-wandering processes reinforce themselves and weaken the other. However, this reinforcement is more dispersed in the more elaborate mind-wandering process, which causes it to decrease over time. We speculate that observed improvements in emotion regulation observed after meditation arise from the ability to maintain focus, because it allows the practitioner to avoid emotions spiraling out of control.
+ER  - 
+
+TY  - CONF
+TI  - WIP: Supporting Student Understanding of Finite Element Analysis and Computational Science: Classroom Scaffolding and ChatGPT
+T2  - 2024 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 5
+AU  - J. L. De La Hoz
+AU  - D. Restrepo
+AU  - C. Vieira
+PY  - 2024
+KW  - Codes
+KW  - Scientific computing
+KW  - Manuals
+KW  - Transforms
+KW  - Chatbots
+KW  - Encoding
+KW  - Finite element analysis
+KW  - MATLAB
+KW  - Programming profession
+KW  - Stress
+KW  - Mechanics of materials
+KW  - computational thinking
+KW  - threshold concepts
+KW  - Finite Element Analysis
+KW  - ChatGPT
+KW  - Scaffolding
+DO  - 10.1109/FIE61694.2024.10893514
+JO  - 2024 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2024 IEEE Frontiers in Education Conference (FIE)
+Y1  - 13-16 Oct. 2024
+AB  - This work-in-progress research paper presents the preliminary results of a study exploring the effectiveness of using computational notebooks to enhance student learning in a Finite Element Analysis (FEA) course for undergraduate Mechanical Engineering students. Our previous work has shown that students often face difficulties in grasping abstract concepts from mechanics of materials while simultaneously learning computational modeling. However, students recognized several advantages of using MATLAB for FEA compared to manual calculations, including significant time savings, increased efficiency, and reduced errors. Nevertheless, they also faced challenges, including a steep learning curve for MATLAB and concerns about how this limitation hinders their conceptual understanding. Despite these drawbacks, they recognized the importance and value of developing computational skills for their future careers. In this study, we extended the scaffolds and changed the sequence of activities to address the challenges the students faced in the previous iteration of our work. Specifically, we provided worked examples that students needed to use, self-explain, and modify before they engaged in programming from scratch. Also, after developing a basic understanding of how to implement FEA in MATLAB, the students used ChatGPT to generate a code that would do the same task. This activity required them to evaluate and refine automatically generated MATLAB code, as ChatGPT may provide alternative solutions that might not always work correctly. We explore three main topics to understand student experiences with and perceptions of this approach: (1) the value of using computational methods compared to manual completion for FEA; (2) the challenges and support of using MATLAB for FEA; and (3) the effectiveness of simulation tools to learn FEA. The goal of this project is two-fold: (1) supporting student learning of intricate phenomena explored in mechanics of materials, like distribution of stress, and stiffness, and (2) fostering essential computational thinking skills through practical disciplinary coding experience. By implementing these elements, the study anticipates a substantial improvement in students' understanding of FEA principles and their ability to translate them into solutions for real-world engineering challenges.
+ER  - 
+
+TY  - CONF
+TI  - A parallel scalable approach to short-range molecular dynamics on the CM-5
+T2  - Proceedings Scalable High Performance Computing Conference SHPCC-92.
+SP  - 240
+EP  - 245
+AU  - R. Giles
+AU  - P. Tamayo
+PY  - 1992
+KW  - Computational modeling
+KW  - Concurrent computing
+KW  - Supercomputers
+KW  - Biology computing
+KW  - Systems engineering and theory
+KW  - Data structures
+KW  - Liquids
+KW  - Solids
+KW  - Polymers
+KW  - Chemistry
+DO  - 10.1109/SHPCC.1992.232636
+JO  - Proceedings Scalable High Performance Computing Conference SHPCC-92.
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings Scalable High Performance Computing Conference SHPCC-92.
+Y1  - 26-29 April 1992
+AB  - Presents a scalable algorithm for short-range molecular dynamics which minimizes interprocessor communications at the expense of a modest computational redundancy. The method combines Verlet neighbor lists with coarse-grained cells. Each processing node is associated with a cubic volume of space and the particles it owns are those initially contained in the volume. Data structures for 'own' and 'visitor' particle coordinates are maintained in each node. Visitors are particles owned by one of the 26 neighboring cells but lying within an interaction range of a face. The Verlet neighbor list includes pointers to own-own and own-visitor interactions. To communicate, each of the 26 neighbor cells sends a corresponding block of particle coordinates using message-passing cells. The algorithms has the numerical properties of the standard serial Verlet method and is efficient for hundreds to thousands of particles per node allowing the simulation of large systems with millions of particles. Preliminary results on the new CM-5 supercomputer are described.<>
+ER  - 
+
+TY  - CONF
+TI  - Co-Designing Machine Learning Apps in K–12 With Primary School Children
+T2  - 2020 IEEE 20th International Conference on Advanced Learning Technologies (ICALT)
+SP  - 308
+EP  - 310
+AU  - T. Toivonen
+AU  - I. Jormanainen
+AU  - J. Kahila
+AU  - M. Tedre
+AU  - T. Valtonen
+AU  - H. Vartiainen
+PY  - 2020
+KW  - Conferences
+KW  - Education
+KW  - Google
+KW  - Tools
+KW  - Machine learning
+KW  - Computational modeling
+KW  - Machine Learning
+KW  - K–12
+KW  - Co-Design
+KW  - Artificial Intelligence
+KW  - Primary School
+KW  - Neural Network
+KW  - Computational Thinking
+DO  - 10.1109/ICALT49669.2020.00099
+JO  - 2020 IEEE 20th International Conference on Advanced Learning Technologies (ICALT)
+IS  - 
+SN  - 2161-377X
+VO  - 
+VL  - 
+JA  - 2020 IEEE 20th International Conference on Advanced Learning Technologies (ICALT)
+Y1  - 6-9 July 2020
+AB  - Artificial intelligence and machine learning are making their ways rapidly to K-12 education. Google Teachable Machine, powered by convolutional neural networks, provides an easy-to-use yet powerful tool for classification tasks. We conducted a series of co-design workshops with primary school children, where they explored and designed their own machine learning powered applications with Google Teachable Machine. Our results show that Google Teachable Machine is a feasible tool for K-12 education. The trained machine learning models are lightweight and computationally efficient, and the applications are usable even with low-end mobile devices. The students and teachers appreciated the multidisciplinary and inclusive workshop, which supports development of transversal competencies in accordance to the national primary school curriculum.
+ER  - 
+
+TY  - CONF
+TI  - A Summer Computing Camp Using ChainReaction and jABC
+T2  - 2016 IEEE 40th Annual Computer Software and Applications Conference (COMPSAC)
+SP  - 275
+EP  - 280
+AU  - A. -L. Lamprecht
+AU  - T. Margaria
+AU  - C. McInerney
+PY  - 2016
+KW  - Games
+KW  - Software
+KW  - Computational modeling
+KW  - Unified modeling language
+KW  - Programming
+KW  - Education
+KW  - Computers
+KW  - programming education
+KW  - computational thinking
+KW  - OER
+DO  - 10.1109/COMPSAC.2016.41
+JO  - 2016 IEEE 40th Annual Computer Software and Applications Conference (COMPSAC)
+IS  - 
+SN  - 0730-3157
+VO  - 2
+VL  - 2
+JA  - 2016 IEEE 40th Annual Computer Software and Applications Conference (COMPSAC)
+Y1  - 10-14 June 2016
+AB  - We have been running summer computing camps at the University of Limerick, Ireland, since 2010. The three-day camps are offered to boys and girls aged 14 and up. During the summer of 2015 we ran two computing camps where we focused on strategy development for the ChainReaction board game with the jABC workflow modelling framework for the first time. In this paper we describe the freely available software packages and the camp programme that we designed around them.
+ER  - 
+
+TY  - CONF
+TI  - Team-based learning course design and assessment in computer engineering
+T2  - 2015 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 9
+AU  - M. Awatramani
+AU  - D. Rover
+PY  - 2015
+KW  - Education
+KW  - Embedded systems
+KW  - Computational modeling
+KW  - Online services
+KW  - Computers
+KW  - System-level design
+KW  - engineering education
+KW  - team-based learning
+KW  - online learning
+KW  - asynchronous teaming
+KW  - embedded systems
+DO  - 10.1109/FIE.2015.7344227
+JO  - 2015 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE Frontiers in Education Conference (FIE)
+Y1  - 21-24 Oct. 2015
+AB  - The flipped classroom model is gaining increasing attention in higher education, including engineering education. There are various types of models and contexts in which they are applied. Generalized research on the effectiveness of the flipped classroom is emerging, and results have been mixed. One such model is team-based learning (TBL) as originally developed by Larry Michaelsen in the late 1970s. TBL is a structured way to implement a flipped classroom approach, and has been shown to be successful in achieving deeper learning among the students. In this paper, we discuss our experience using the TBL methodology in a graduate computer engineering course on system level design of embedded systems. Specifically, we describe the course design, instructor experience adapting TBL for use in the course, including implementing an asynchronous online TBL process, and instructor reflections and student feedback on what worked well and what did not. We analyze the course content using the Florida Taxonomy of Cognitive Behavior, and assess the effectiveness of our implementation in achieving deeper learning. Additionally, we report on student perception of the new course structure and their experience using TBL.
+ER  - 
+
+TY  - CONF
+TI  - Evaluation Model for Improving Ambient Learning Systems Towards Achieving Sustainable Development Goal Four
+T2  - 2018 5th International Conference on Soft Computing & Machine Intelligence (ISCMI)
+SP  - 17
+EP  - 21
+AU  - S. N. Mwendia
+PY  - 2018
+KW  - Data mining
+KW  - Tools
+KW  - Learning systems
+KW  - Task analysis
+KW  - Engines
+KW  - Computational modeling
+KW  - ambient learning
+KW  - artificial intelligence
+KW  - decision support systems
+KW  - computational thinking
+DO  - 10.1109/ISCMI.2018.8703251
+JO  - 2018 5th International Conference on Soft Computing & Machine Intelligence (ISCMI)
+IS  - 
+SN  - 2640-0146
+VO  - 
+VL  - 
+JA  - 2018 5th International Conference on Soft Computing & Machine Intelligence (ISCMI)
+Y1  - 21-22 Nov. 2018
+AB  - Among the 17 sustainable development goals specified by United Nations organization in 2015, goal four is the key for progress towards the achievement of all the other goals. However, studies show that this goal is yet to be achieved among African universities in terms of supervision due to inadequate availability of supervisors to their research students. Ambient learning approach promises to address the problem by allowing access to education services like research supervision at anytime, anywhere and anyhow. Nevertheless, little research has been conducted to assess its effectiveness towards achieving sustainable development goal four. The aim of this paper is to describe a model that illustrates how ambient learning systems can be combined with decision support tools to support evaluation of its effectiveness.
+ER  - 
+
+TY  - CONF
+TI  - Proposal of a conceptual modeling learning environment with task/model management functions
+T2  - 2022 International Conference on Advanced Learning Technologies (ICALT)
+SP  - 196
+EP  - 198
+AU  - R. Maruyama
+AU  - M. Kayama
+AU  - T. Nagai
+AU  - K. Otaku
+AU  - N. Taguchi
+PY  - 2022
+KW  - Computational modeling
+KW  - Unified modeling language
+KW  - Proposals
+KW  - Task analysis
+KW  - Programming profession
+KW  - Creativity
+KW  - Programming environments
+KW  - computational thinking
+KW  - conceptual modeling
+KW  - unified modeling language
+KW  - program
+KW  - model driven development
+DO  - 10.1109/ICALT55010.2022.00064
+JO  - 2022 International Conference on Advanced Learning Technologies (ICALT)
+IS  - 
+SN  - 2161-377X
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Advanced Learning Technologies (ICALT)
+Y1  - 1-4 July 2022
+AB  - This study aims to explore an educational learning environment that supports students to learn conceptual modeling with UML. In this study, we call the describing models “UML programming.” In this paper, we show an educational UML programming environment for STEAM-related subjects (for example, Technology or Engineering) in schools. The features of the proposed learning environment are 1) educational task management function and 2) models, which are created by students, management function.
+ER  - 
+
+TY  - CONF
+TI  - Research on Teaching Reform for Python Programming Curriculum Based on AIGC-CDIO-OBE Model
+T2  - 2024 6th International Conference on Computer Science and Technologies in Education (CSTE)
+SP  - 106
+EP  - 109
+AU  - E. Liao
+PY  - 2024
+KW  - Technological innovation
+KW  - Philosophical considerations
+KW  - Computational modeling
+KW  - Education
+KW  - Encoding
+KW  - Artificial intelligence
+KW  - Engineering education
+KW  - CDID
+KW  - OBE
+KW  - AIGC
+KW  - Python
+DO  - 10.1109/CSTE62025.2024.00026
+JO  - 2024 6th International Conference on Computer Science and Technologies in Education (CSTE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 6th International Conference on Computer Science and Technologies in Education (CSTE)
+Y1  - 19-21 April 2024
+AB  - This paper focuses on the characteristics of computer science general course, specifically the emphasis on comprehension and practical application in “Python Language Programming”. Combining the contemporary Artificial Intelligence Generated Content (AIGC) technology with the teaching philosophy of Outcome-Based Education (OBE) and CDIO (Conceive, Design, Implement, Operate) in computer education, I propose the innovative AIGC-CDIO-OBE education model. Which can help students enhance computational thinking, design thinking, and programming skills in python language. Through teaching practices, the effectiveness and feasibility of this education model are demonstrated when compared to traditional teaching methods. Students have more interesting for learning, stronger motivation for coding, and stronger sense of achievement in their learning outcomes.
+ER  - 
+
+TY  - CONF
+TI  - Model of Organizing Online Learning for Students in Agricultural Area
+T2  - 2022 2nd International Conference on Technology Enhanced Learning in Higher Education (TELE)
+SP  - 317
+EP  - 320
+AU  - S. Ubaydullayeva
+AU  - D. Ubaydullayeva
+AU  - R. Gaziyeva
+AU  - Z. Gulyamova
+AU  - G. Tadjiyeva
+AU  - N. Kadirova
+PY  - 2022
+KW  - Computer science
+KW  - Computational modeling
+KW  - Education
+KW  - Organizations
+KW  - Medical services
+KW  - Software
+KW  - Systems thinking
+KW  - model
+KW  - informatization of education
+KW  - means of information and telecommunication technologies
+KW  - teaching electronic educational resources
+KW  - online technologies
+DO  - 10.1109/TELE55498.2022.9800945
+JO  - 2022 2nd International Conference on Technology Enhanced Learning in Higher Education (TELE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 2nd International Conference on Technology Enhanced Learning in Higher Education (TELE)
+Y1  - 26-27 May 2022
+AB  - Currently, Uzbekistan is rapidly implementing measures to develop digital technologies in all spheres of the economy, as well as to widely introduce information and communication technologies in public administration, education, healthcare and agriculture and other areas of public life. The country needs specialists with systems thinking, who can make informed decisions, who are able to think outside the box and modern, who are able to search for and use useful information, and learn innovative technologies. Internet technologies play an important role in solving these problems in the educational system. In particular, the implementation of priority projects has begun, which provide for the improvement of the e-government system, the development of the market for software products and information technologies, the organization of IT parks in all regions of the republic, and the provision of this area with qualified personnel. The article presents a model for organizing students’ independent work using online technologies. Detailed instructions are given for completing a specific task in computer science using an electronic educational resource developed by the authors of this article
+ER  - 
+
+TY  - CONF
+TI  - Employing narratives to trigger interest in computational activities with inner-city girls
+T2  - 2015 Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)
+SP  - 1
+EP  - 1
+AU  - S. Erete
+AU  - N. Pinkard
+AU  - C. K. Martin
+AU  - J. Sandherr
+PY  - 2015
+KW  - Physics
+KW  - Statistics
+KW  - Sociology
+KW  - Computational modeling
+KW  - User experience
+KW  - Training
+KW  - Textiles
+DO  - 10.1109/RESPECT.2015.7296518
+JO  - 2015 Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)
+Y1  - 13-14 Aug. 2015
+AB  - There has been a well-documented and persistent drop in the number of women in computer science and engineering courses [1]. Young peoples' decisions about participation often start early and have been linked to particular experiences [2]. For some young people, these experiences are less than encouraging. In the US, high school computer science courses are overwhelmingly male dominated [3]. Schools serving minority students and those from lower socioeconomic backgrounds often struggle to even offer such classes [4]. Even when opportunities exist, many girls and underrepresented populations face barriers such as negative stereotypes and dearth of role models and community [5]. The Digital Youth Divas program was created to address these issues through intentional design. The program is developed to trigger situational interest [6] in girls through a combination of community, project-based instruction, on- and offline learning spaces, and narrative stories. Triggered situational interest is critical as an opening to move on to subsequent phases that are more independent of environmental factors. Understanding potential effective triggers for girls, minorities, and youth from lower socioeconomic backgrounds is critical to engaging such populations in STEM learning. (1) Community: Middle school girls interested in fashion and design are recruited, especially from areas that have traditionally been underserved. Adult mentors who are not engineers, but share cultural connections with the girls and have gone through curriculum and pedagogical training, attend to specific practices of encouraging, helping to troubleshoot, and developing community. (2) Project-based instruction: The program combines principles of fashion, design, and dance with the power and possibilities of electronic circuits and programming to develop interactive e-fashion projects and virtual programmed choreographies. Scaffolded challenges work through stages of design and computational thinking, including paper prototyping, implementation, feedback, and revision. (3) Integrated on and offline learning spaces: Girls work through projects in a shared physical space using supplied materials. An online system, iRemix, is the mechanism for independent work and leveling up. (4) Interactive narrative stories: Narratives can provide context that helps relate abstract concepts to real-world issues [7], increase motivation and positively contribute to girls' science identity [8], and provide focus for design by communicating tasks, specifically when readers can identify with the stories [9]. Compelling stories conveyed in text and multimedia (video, audio, images) is employed to engage middle school girls in activities involving computational thinking. The stories center on a group of middle school girls involved in the Digital Youth Divas program, and combines aspects of contemporary young adult fiction (mystery, social and emotional issues) with content, topics, and project work from the e-textiles and programming curricula. The interactive narratives unfold through the iRemix platform: girls launch narratives and at intervals are prompted to engage in project-based work. The girls solve challenges by submitting work online, and receive and respond to messages from characters. Our early exploratory research suggested that narratives prompted discussions of identity, and contributed to participant interest in the program content and motivation to engage in project work.
+ER  - 
+
+TY  - CONF
+TI  - Research on the Application of Module System in the Field of CG Painting
+T2  - 2022 IEEE 2nd International Conference on Electronic Technology, Communication and Information (ICETCI)
+SP  - 751
+EP  - 754
+AU  - Y. Bo
+PY  - 2022
+KW  - Visualization
+KW  - Modular construction
+KW  - Art
+KW  - TV
+KW  - Computational modeling
+KW  - Conferences
+KW  - Games
+KW  - module
+KW  - system
+KW  - CG painting
+DO  - 10.1109/ICETCI55101.2022.9832309
+JO  - 2022 IEEE 2nd International Conference on Electronic Technology, Communication and Information (ICETCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE 2nd International Conference on Electronic Technology, Communication and Information (ICETCI)
+Y1  - 27-29 May 2022
+AB  - In the context of the new era, the application of CG painting extends to almost all visual art creation fields, such as film and television, games, animation, graphic design, etc. The emergence of CG painting has transformed the thinking mode and technological process of artistic creation. Aiming at the linear thinking method of traditional art based on the characteristics of materials, and the problem of CG art creation in advancing the completion of the picture, this article analyzes and discusses how the modular system is applied to the CG drawing process. “Modular system” is a thinking model, a solution, and a tool to help practitioner complete commercial art projects.
+ER  - 
+
+TY  - CONF
+TI  - Web-Based Learning Platforms Integrating Social Networking for Design Education at High Schools in China
+T2  - 2010 International Conference on Computational Intelligence and Software Engineering
+SP  - 1
+EP  - 3
+AU  - H. Jiang
+AU  - M. Tang
+PY  - 2010
+KW  - Social network services
+KW  - Educational institutions
+KW  - Internet
+KW  - Computational modeling
+KW  - Computers
+KW  - Multimedia communication
+DO  - 10.1109/CISE.2010.5676838
+JO  - 2010 International Conference on Computational Intelligence and Software Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Computational Intelligence and Software Engineering
+Y1  - 10-12 Dec. 2010
+AB  - This paper reviews the design education environment in Chinese mainland. Based on this review, it discusses how to use social networking to support design instructions. With the study on the relationship between social networking and education, this research provides insights on how to support design education by creating an integrated web-based pedagogical model.
+ER  - 
+
+TY  - CONF
+TI  - Essential Teambuilding Skills for Project Work in Engineering Studies
+T2  - 2024 IEEE 18th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+SP  - 000121
+EP  - 000126
+AU  - M. Pogatsnik
+AU  - É. Beke
+AU  - R. B. Kendrovics
+PY  - 2024
+KW  - Education
+KW  - Teamwork
+KW  - Informatics
+KW  - Fifth Industrial Revolution
+KW  - Engineering students
+KW  - Computational intelligence
+KW  - Education 4.0
+KW  - Industry 5.0
+KW  - skills development
+KW  - soft skills
+KW  - team
+KW  - project work skills
+DO  - 10.1109/SACI60582.2024.10619907
+JO  - 2024 IEEE 18th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+IS  - 
+SN  - 2765-818X
+VO  - 
+VL  - 
+JA  - 2024 IEEE 18th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+Y1  - 23-25 May 2024
+AB  - The Industry 5.0 requires new skills in a rapidly changing labor market. Generation Z is the first generation of digital natives whose skills to operate digital tools are unquestionable. At the same time, their communication, collaboration, and team-building skills lack the necessary depth to succeed in the world of work. Alongside other technological improvements, Education 4.0 has proposed the introduction of new learning and teaching methods such as project, problem, and design-based approaches. In this comparative study, the project-based approach is presented. The aim of the research was to investigate the teamwork skills of engineering students. 177 students were interviewed about how each project team works together and which skills and competences are missing to succeed together. The results of the quantitative research show that self-assessment scores in all subsamples outperformed the assessment of teams. The results can be incorporated into a future teaching methodology framework for skills development.
+ER  - 
+
+TY  - CONF
+TI  - A Model of Emotional Agent Based on Granular Computing
+T2  - 2011 Seventh International Conference on Computational Intelligence and Security
+SP  - 190
+EP  - 194
+AU  - J. Hu
+AU  - C. Guan
+PY  - 2011
+KW  - Computational modeling
+KW  - Cognition
+KW  - Blood pressure
+KW  - Knowledge based systems
+KW  - Adaptation models
+KW  - Humans
+KW  - Computer architecture
+KW  - emotion
+KW  - model
+KW  - agent
+KW  - granular computing
+DO  - 10.1109/CIS.2011.50
+JO  - 2011 Seventh International Conference on Computational Intelligence and Security
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 Seventh International Conference on Computational Intelligence and Security
+Y1  - 3-4 Dec. 2011
+AB  - Research results of neurobiology show that emotions play an important and active role in human-like intelligence. To make agent have the ability of handling emotions, a new model structure of emotional agent is presented, based on the granular computing theory and the traditional BDI agent model. The model firstly establishes a new emotion knowledge base based on granular computing for emotion expression, secondly puts forward the emotional decision rules achieving method of the emotional Knowledge base, and finally implements the emotion treatment. An emotional agent based on this model has been realized, experiment results show that it is efficient to transact simple emotions.
+ER  - 
+
+TY  - CONF
+TI  - The Application of Digital Technology in the Design Domain
+T2  - 2008 IEEE Pacific-Asia Workshop on Computational Intelligence and Industrial Application
+SP  - 311
+EP  - 314
+AU  - M. Wu
+AU  - J. Hao
+PY  - 2008
+KW  - Space technology
+KW  - Process design
+KW  - Computer graphics
+KW  - Application software
+KW  - Computer industry
+KW  - Computer applications
+KW  - Technology management
+KW  - Design automation
+KW  - Conferences
+KW  - Computational intelligence
+KW  - Digital
+KW  - design
+KW  - computers
+KW  - digital design
+KW  - theory
+KW  - architecture
+KW  - media
+KW  - education
+DO  - 10.1109/PACIIA.2008.247
+JO  - 2008 IEEE Pacific-Asia Workshop on Computational Intelligence and Industrial Application
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2008 IEEE Pacific-Asia Workshop on Computational Intelligence and Industrial Application
+Y1  - 19-20 Dec. 2008
+AB  - The development of digital technology, especially the technology of computer graphics and imaging, has create a new context for the design practice, where the original craftsman-like manner of designing has been made relatively "obsolete", and the trend of de-materialized and intangible design is becoming a reality. This paper attempts to investigate how, in the digital context, design is emerging as a new interdisciplinary domain in the borderlands between science, humanities and art with its own extended meaning and applications. We claim, based on the new digital technology, the design, as constructed in a new model, will enter a new era.
+ER  - 
+
+TY  - CONF
+TI  - How important is Trust: Exploring the Factors Influencing College Students' Use of Chat GPT as a Learning Aid
+T2  - 2023 16th International Symposium on Computational Intelligence and Design (ISCID)
+SP  - 67
+EP  - 70
+AU  - W. Wu
+AU  - R. Liu
+AU  - J. Chu
+PY  - 2023
+KW  - Surveys
+KW  - Technology acceptance model
+KW  - Numerical analysis
+KW  - Computational modeling
+KW  - Education
+KW  - Debugging
+KW  - Chatbots
+KW  - technology acceptance model (TAM)
+KW  - structural equation modeling (SEM)
+KW  - ChatGPT
+DO  - 10.1109/ISCID59865.2023.00024
+JO  - 2023 16th International Symposium on Computational Intelligence and Design (ISCID)
+IS  - 
+SN  - 2473-3547
+VO  - 
+VL  - 
+JA  - 2023 16th International Symposium on Computational Intelligence and Design (ISCID)
+Y1  - 16-17 Dec. 2023
+AB  - With the rapid development of artificial intelligence technology, its functions have become increasingly powerful. Large Language Models such as ChatGPT have solved various tasks such as text creation and code debugging, and the impact in the field of education has caused close attention from many scholars. Therefore, by establishing an extended TAM, we conducted a questionnaire survey on 470 college students to explore their acceptance of using ChatGPT as an auxiliary learning tool. Structural equation modeling (SEM) was used to analyze the data. The results showed that trust, facilitating conditions, perceived usefulness, and perceived ease of use have a positive impact on college students' use intention of ChatGPT. Hence, by improving the credibility of generated content and providing appropriate auxiliary resources will help promote students' acceptance of ChatGPT. The research results provide suggestions and directions for future design.
+ER  - 
+
+TY  - CONF
+TI  - Emotional Agent Based on Rough Set
+T2  - 2007 International Conference on Computational Intelligence and Security Workshops (CISW 2007)
+SP  - 370
+EP  - 373
+AU  - J. Hu
+AU  - Y. -h. Chen
+AU  - C. Guan
+PY  - 2007
+KW  - Computer architecture
+KW  - Set theory
+KW  - Artificial intelligence
+KW  - Intelligent agent
+KW  - Humans
+KW  - Computer science
+KW  - Competitive intelligence
+KW  - Decision making
+KW  - Computational intelligence
+KW  - Security
+DO  - 10.1109/CISW.2007.4425512
+JO  - 2007 International Conference on Computational Intelligence and Security Workshops (CISW 2007)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 International Conference on Computational Intelligence and Security Workshops (CISW 2007)
+Y1  - 15-19 Dec. 2007
+AB  - To improve the ability of agent for handling emotions, a new architecture for emotion agent is presented, based on the traditional BDI agent model and the rough set theory. By a new emotional reasoning algorithm based on rough set, the architecture performs emotion reasoning and implements the emotion treatment. An emotional agent grid based on this architecture has been realized, experiment results show that it is efficient to transact simple emotions by emotional agents.
+ER  - 
+
+TY  - CONF
+TI  - A Model for CEO Strategic Leadership Evaluation Based on Information Entropy and Unascertained Measure
+T2  - 2009 International Conference on Computational Intelligence and Natural Computing
+SP  - 170
+EP  - 173
+AU  - X. Gang
+AU  - R. RongRong
+PY  - 2009
+KW  - Information entropy
+KW  - Current measurement
+KW  - Process control
+KW  - Computational intelligence
+KW  - Computer vision
+KW  - Design methodology
+KW  - Decision making
+KW  - Environmental management
+KW  - Knowledge management
+KW  - Art
+KW  - strategic leadership
+KW  - information entropy
+KW  - unascertained measure
+KW  - leadership evaluation
+DO  - 10.1109/CINC.2009.62
+JO  - 2009 International Conference on Computational Intelligence and Natural Computing
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2009 International Conference on Computational Intelligence and Natural Computing
+Y1  - 6-7 June 2009
+AB  - Considering the complexity of CEO Strategic leadership and some shortcomings of the current evaluation methods this paper designs an evaluation index system which includes five Abilities: strategy vision capability, strategy decision capability, and strategy implementation capability, strategy driving capability and relation capability, and set up a new model for CEO strategic leadership evaluation based on information entropy and unascertained measure. At last, a case study is provided to verify the model. The research findings offer a workable approach in evaluating strategic leadership. It can serve as a basis in the selection, assessment and cultivation of CEO in China.
+ER  - 
+
+TY  - CONF
+TI  - Lean Management Knowledge Survey in Hungary
+T2  - 2024 IEEE 18th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+SP  - 000205
+EP  - 000210
+AU  - J. Kosztolányi
+AU  - Z. Tégla
+PY  - 2024
+KW  - Surveys
+KW  - Buildings
+KW  - Informatics
+KW  - Computational intelligence
+KW  - Best practices
+KW  - Business
+KW  - lean strategy
+KW  - lean transformation
+KW  - change management
+KW  - trainer skill
+DO  - 10.1109/SACI60582.2024.10619857
+JO  - 2024 IEEE 18th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+IS  - 
+SN  - 2765-818X
+VO  - 
+VL  - 
+JA  - 2024 IEEE 18th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+Y1  - 23-25 May 2024
+AB  - The importance of change management is still under-emphasised in lean transformation because many people are not familiar with change management models. This may be an area that needs more attention in the future. The survey shows that there are professionals at all levels, but also where there are gaps. However, it gives hope that in the coming years these gaps will be filled and more effective lean transformations can be led. The main lessons from the survey can help to set priorities for the coming years. Those in the support phase are the least aware of the importance of a blame-free environment, which is a key factor for effective lean transformation. In the application phase, there is a clear lack of awareness of the Kanban system. The lack of knowledge of plant management is also consistent with the experience. This is also due to the fact that the development of lean was not always based on existing knowledge, but was promoted as a new method different from traditional practices.
+ER  - 
+
+TY  - CONF
+TI  - The Method of Extracting Domain and Situation in Chinese Sentence Groups
+T2  - 2009 International Conference on Artificial Intelligence and Computational Intelligence
+SP  - 86
+EP  - 90
+AU  - X. Wei
+AU  - Q. Zhang
+PY  - 2009
+KW  - Concrete
+KW  - Merging
+KW  - Logic
+KW  - Joining processes
+KW  - Artificial intelligence
+KW  - Computational intelligence
+KW  - Acoustics
+KW  - Information analysis
+KW  - Data mining
+KW  - Frequency
+KW  - sentence group
+KW  - domain
+KW  - situation
+KW  - HNC theory
+DO  - 10.1109/AICI.2009.474
+JO  - 2009 International Conference on Artificial Intelligence and Computational Intelligence
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - 2009 International Conference on Artificial Intelligence and Computational Intelligence
+Y1  - 7-8 Nov. 2009
+AB  - Sentence group is mapped into contextual element, one of the four layers of linguistic conceptual space in the theory of hierarchical network of concepts (HNC). The contextual element is composed of three parts: domain, situation and background. The domain is extracted by merging sentences with the same or similar domain conceptual symbol, which comes from the symbols of conceptual primitives, the conceptual symbols of words, and the semantic chunks in a sentence. The conceptual framework of situation is filled with the right words or phrases, according to the knowledge of domain sentence categories, the sentence categories and semantic chunks. The experiments show that there are still many aspects to be improved, including the knowledge base, analyzing the semantic structures of sentences, and matching the conceptual symbols in different types.
+ER  - 
+
+TY  - CONF
+TI  - The Importance of Collaboration Skills in Agile Workplaces
+T2  - 2025 IEEE 12th International Conference on Computational Cybernetics and Cyber-Medical Systems (ICCC)
+SP  - 000185
+EP  - 000190
+AU  - G. Sterczl
+AU  - Á. Csiszárik-Kocsir
+PY  - 2025
+KW  - Surveys
+KW  - Industries
+KW  - Heart
+KW  - Technological innovation
+KW  - Employment
+KW  - Computational cybernetics
+KW  - Companies
+KW  - Teamwork
+KW  - Problem-solving
+KW  - Creativity
+KW  - agile operation
+KW  - collaboration
+KW  - personal skills
+DO  - 10.1109/ICCC64928.2025.10999119
+JO  - 2025 IEEE 12th International Conference on Computational Cybernetics and Cyber-Medical Systems (ICCC)
+IS  - 
+SN  - 2689-7768
+VO  - 
+VL  - 
+JA  - 2025 IEEE 12th International Conference on Computational Cybernetics and Cyber-Medical Systems (ICCC)
+Y1  - 9-11 April 2025
+AB  - Agile methodologies are gaining ground not only in the IT sector but also in other industries. The importance of collaboration skills in the modern workplace has increased exponentially with the rise of agile working.. At the heart of the agile approach are flexibility, adaptability and teamwork, all of which are closely linked to effective collaboration. Rather than traditional hierarchical structures, agile organisations are built around smaller, autonomous teams where shared goals and responsibilities prevail. This environment requires employees to be able to communicate effectively, share information and work together to achieve a common goal. Successful collaboration not only enables projects to be completed faster and more efficiently, but also fosters innovation and creativity, which is a key factor for competitive advantage in the 21st century. In an agile workplace, team members need to be able to adapt quickly to changing circumstances, receive and give feedback constructively and actively participate in joint problem-solving. In our research, we investigate the collaboration skills that are perceived as most important by employees in companies using agile methodologies, based on the results of a primary survey. The study was based on a survey of 274 respondents, and we were interested in how important they consider the different skills and competences required for collaboration to be. The aim of our survey is to identify the most important areas for improvement, pointing organisations in the right direction both in building more effective organisations and in developing their staff.
+ER  - 
+
+TY  - CONF
+TI  - Research on Interactive Simulation Software Is Applied to Foreign Language Teaching Based on Delphi
+T2  - 2014 International Conference on Computational Intelligence and Communication Networks
+SP  - 1113
+EP  - 1116
+AU  - W. Wei
+PY  - 2014
+KW  - Education
+KW  - Mobile communication
+KW  - Mobile computing
+KW  - Cloud computing
+KW  - Computational modeling
+KW  - Multimedia communication
+KW  - Foreign language teaching
+KW  - practice
+KW  - simulation
+KW  - Delphi
+DO  - 10.1109/CICN.2014.233
+JO  - 2014 International Conference on Computational Intelligence and Communication Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 International Conference on Computational Intelligence and Communication Networks
+Y1  - 14-16 Nov. 2014
+AB  - This paper describes the process of design and implementation of multimedia foreign language teaching simulation software is an open system, the simulation of the software system can realize multi computer courses in foreign language, practice. Course selection, foreign language selection method using menu, each foreign language simulation with animation, pictures and text forms, which uses the material is in the form of documents, and is easy to realize dynamic adding, modifying, lookup and update.
+ER  - 
+
+TY  - CONF
+TI  - Complex adaptive models for the integration of product centered engineering
+T2  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+SP  - 107
+EP  - 112
+AU  - L. Horváth
+AU  - I. J. Rudas
+PY  - 2013
+KW  - Adaptation models
+KW  - Context modeling
+KW  - Context
+KW  - Computational modeling
+KW  - Mathematical model
+KW  - Adaptive systems
+DO  - 10.1109/ICCCyb.2013.6617571
+JO  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+Y1  - 8-10 July 2013
+AB  - Classical problem in engineering modeling is that product changes and environmental effects on product are hard to propagate in the product model during engineering activities for the lifecycle of products. In order to support change handling, product modeling in current product lifecycle management (PLM) system uses feature and contextual connection definitions to realize self-adaptive characteristics of product model. Actual problems with this model are identified and recent contributions to establish new modeling solutions are introduced in this paper. The main objectives are to enhance self adaptive characteristics of currently applied product models and to extend contextual connections to new features providing higher level knowledge representation capability. Open architecture PLM system representing latest product modeling principles and methods is considered as environment for the research, simulation, and implementation demanded by the proposed extension using new features and contexts.
+ER  - 
+
+TY  - CONF
+TI  - On the Influence of Region Mismatch at Training and Testing in Region-Related Concept Detection
+T2  - 2009 International Conference on Computational Intelligence and Natural Computing
+SP  - 42
+EP  - 46
+AU  - Z. Gao
+AU  - Z. Zhao
+AU  - T. Liu
+AU  - X. Nan
+AU  - A. Cai
+PY  - 2009
+KW  - Testing
+KW  - Concrete
+KW  - Detection algorithms
+KW  - Feature extraction
+KW  - Telephony
+KW  - Information retrieval
+KW  - Computational intelligence
+KW  - Support vector machines
+KW  - Support vector machine classification
+KW  - Video sequences
+KW  - Region-mismatch
+KW  - Concept
+KW  - Detection
+KW  - Fusion
+KW  - Annotation
+KW  - SVM
+KW  - Trecvid
+DO  - 10.1109/CINC.2009.42
+JO  - 2009 International Conference on Computational Intelligence and Natural Computing
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2009 International Conference on Computational Intelligence and Natural Computing
+Y1  - 6-7 June 2009
+AB  - A great deal of region-related concept detection algorithms have been proposed so far, but there are few of them concerning about the problem of mismatched regions at training and testing stages. In order to investigate the mismatch problem in region-related concept detection, we introduce three kinds of methods to annotate the datasets, and then conduct experiments on differently annotated training and testing datasets. We find from these experiments that the detection performance is the best when the regions of a region-related concept are well defined and matched during training and testing, or the detection performance will be decreased. Based on these observations, we propose a fusion scheme to combine the results of classifiers trained with datasets which are annotated by different methods. Experiments on Trecvid-2007 test corpus show that the proposed fusion scheme can obtain performance improvement up to 6~12%.
+ER  - 
+
+TY  - CONF
+TI  - Interpolation of fuzzy knowledge: a model of human reasoning
+T2  - 1997 IEEE International Conference on Systems, Man, and Cybernetics. Computational Cybernetics and Simulation
+SP  - 2957
+EP  - 2962 vol.3
+AU  - L. T. Koczy
+PY  - 1997
+KW  - Interpolation
+KW  - Fuzzy reasoning
+KW  - Humans
+KW  - Fuzzy systems
+KW  - Fuzzy control
+KW  - Fuzzy logic
+KW  - Artificial intelligence
+KW  - Computational complexity
+KW  - Control systems
+KW  - Telematics
+DO  - 10.1109/ICSMC.1997.635446
+JO  - 1997 IEEE International Conference on Systems, Man, and Cybernetics. Computational Cybernetics and Simulation
+IS  - 
+SN  - 1062-922X
+VO  - 3
+VL  - 3
+JA  - 1997 IEEE International Conference on Systems, Man, and Cybernetics. Computational Cybernetics and Simulation
+Y1  - 12-15 Oct. 1997
+AB  - The paper discusses the evolution of fuzzy rule based models applicable to modeling very complex systems, and starting with "classic" symbolic logic based expert controllers/ reasoning systems, going through Zadeh- and Mamdani-style fuzzy models, and continued by the family of rule interpolation based fuzzy systems including hierarchically structured interpolative models.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of the causes of employment satisfaction of fresh graduates from colleges and universities --- Mediating variables based on school employment services
+T2  - 2021 17th International Conference on Computational Intelligence and Security (CIS)
+SP  - 570
+EP  - 574
+AU  - P. -D. Lai
+AU  - Y. Xiao
+PY  - 2021
+KW  - Analytical models
+KW  - Employment
+KW  - Education
+KW  - Psychology
+KW  - Mathematical models
+KW  - Security
+KW  - Computational intelligence
+KW  - recent college graduates
+KW  - school employment services
+KW  - employment satisfaction
+KW  - mediating effect
+DO  - 10.1109/CIS54983.2021.00124
+JO  - 2021 17th International Conference on Computational Intelligence and Security (CIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 17th International Conference on Computational Intelligence and Security (CIS)
+Y1  - 19-22 Nov. 2021
+AB  - Employment is the biggest livelihood of the people, and how to make college graduates from “employable” to “well employed” has become an important issue in the employment work of universities and education departments. In this paper, we conducted an empirical analysis on the factors influencing employment satisfaction of fresh college graduates in Guangdong Province in 2021 by structural equation modeling, and concluded that college students' learning ability and psychological quality play a positive role in employment satisfaction, school employment service plays a mediating role in the equation. Countermeasures to improve graduates' employment satisfaction are given in response to the analysis findings to promote colleges and universities to improve their employment services.
+ER  - 
+
+TY  - CONF
+TI  - Design of Photovoltaic Cleaning Robots Assisted by Large Language Models
+T2  - 2023 16th International Symposium on Computational Intelligence and Design (ISCID)
+SP  - 196
+EP  - 199
+AU  - S. Chai
+AU  - W. Ying
+AU  - R. Wan
+PY  - 2023
+KW  - Photovoltaic systems
+KW  - Industries
+KW  - Service robots
+KW  - Computational modeling
+KW  - Prototypes
+KW  - Diamonds
+KW  - Cleaning
+KW  - large language models
+KW  - photovoltaic cleaning robot
+KW  - design innovation
+KW  - double diamond model
+DO  - 10.1109/ISCID59865.2023.00054
+JO  - 2023 16th International Symposium on Computational Intelligence and Design (ISCID)
+IS  - 
+SN  - 2473-3547
+VO  - 
+VL  - 
+JA  - 2023 16th International Symposium on Computational Intelligence and Design (ISCID)
+Y1  - 16-17 Dec. 2023
+AB  - With the booming development of the photovoltaic (PV) industry, the cleaning of PV panels has become increasingly crucial. This study, framed under the double diamond model, utilized the large language model (LLM) GPT-4 to assist in designing a PV cleaning robot. Initially, the study involved in-depth market analysis and field investigations to identify consumer needs and design requirements. Subsequently, the Kano model was applied to effectively categorize and assess consumer needs, successfully pinpointing key design directions. GPT-4 proposed numerous innovative design ideas. We created the selected prototypes to test and chose the most promising one ultimately. The results indicate that the overall performance of the scheme met expectations, demonstrating the potential of LLMs in complex product design.
+ER  - 
+
+TY  - CONF
+TI  - The Paradigms for the Inquiry in Decision Support System (DSS) and a Design Framework of Cognitive DSS
+T2  - 2009 International Conference on Computational Intelligence and Natural Computing
+SP  - 316
+EP  - 319
+AU  - Y. Zhong
+AU  - Y. Zhong
+PY  - 2009
+KW  - Decision support systems
+KW  - Computational intelligence
+KW  - Conference management
+KW  - Technology management
+KW  - Algorithm design and analysis
+KW  - Automation
+KW  - Educational institutions
+KW  - Information systems
+KW  - Artificial intelligence
+KW  - Data structures
+KW  - decision support system
+KW  - cognitive decision support system
+KW  - interpretivist
+KW  - dialectic pluarist
+DO  - 10.1109/CINC.2009.203
+JO  - 2009 International Conference on Computational Intelligence and Natural Computing
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2009 International Conference on Computational Intelligence and Natural Computing
+Y1  - 6-7 June 2009
+AB  - Research paradigm plays an important role in the study of decision support system (DSS). Currently most researches in DSS heavily rely on positivist paradigm while other paradigms are ignored. Firstly this paper compares the paradigms for the inquiry in DSS. Then we propose a design framework of cognitive DSS based on dialectic pluralist paradigm. Some major components of the system and the design of key recommendation algorithm are introduced.
+ER  - 
+
+TY  - CONF
+TI  - Study on the Enterprise Design Management of External Cooperation
+T2  - 2009 Second International Symposium on Computational Intelligence and Design
+SP  - 207
+EP  - 209
+AU  - S. Yao
+AU  - Q. Guo
+PY  - 2009
+KW  - Companies
+KW  - Product design
+KW  - Job design
+KW  - Art
+KW  - Computational intelligence
+KW  - Educational institutions
+KW  - Outsourcing
+KW  - Silicon
+KW  - Collaboration
+DO  - 10.1109/ISCID.2009.199
+JO  - 2009 Second International Symposium on Computational Intelligence and Design
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - 2009 Second International Symposium on Computational Intelligence and Design
+Y1  - 12-14 Dec. 2009
+AB  - Enterprise design management is not limited to the management of enterprise internal design department; it also contains the management of external design cooperation. This paper elaborates on the external design cooperation management and divides it into five parts, such as cooperation with the design company, cooperation with the free designers, cooperation with college or research institute, cooperation with rivals and cooperation with the upstream and downstream enterprises. Based on the detailed exposition of various design cooperation forms, it is pointed out that modern enterprise should integrate the external design forces and make a good job of design cooperation management. Only in those ways can good products be designed and the enterprise strategy be carried out.
+ER  - 
+
+TY  - CONF
+TI  - The Research of Chinese Text Proofreading System Model
+T2  - 2010 International Conference on Computational Intelligence and Software Engineering
+SP  - 1
+EP  - 4
+AU  - Y. Luo
+AU  - J. Yu
+AU  - X. Cheng
+PY  - 2010
+KW  - Semantics
+KW  - Syntactics
+KW  - Natural languages
+KW  - Computational modeling
+KW  - Libraries
+KW  - Computers
+KW  - Brain modeling
+DO  - 10.1109/CISE.2010.5677021
+JO  - 2010 International Conference on Computational Intelligence and Software Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Computational Intelligence and Software Engineering
+Y1  - 10-12 Dec. 2010
+AB  - To improve the efficiency of syntactic errors checking and semantic errors checking in Chinese text proofreading, this paper gives a Chinese text proofreading system model based on HNC. This model is a combination of traditional errors checking method and sentence category analysis system based on HNC. The experiment on one hundred articles from daily newspapers and magazines shows that this model has obvious advantages in syntactic errors checking and semantic errors checking when comparing with word2003 errors checking system.
+ER  - 
+
+TY  - CONF
+TI  - Use of ICT in engineering education: A survey report
+T2  - 2014 IEEE International Conference on Computational Intelligence and Computing Research
+SP  - 1
+EP  - 5
+AU  - L. Dhandabani
+AU  - R. Sukumaran
+PY  - 2014
+KW  - Information and Communication Technology (ICT)
+KW  - Learning Management System (LMS)
+KW  - Content Management System (CMS)
+KW  - Educational Practices
+KW  - e-Survey
+DO  - 10.1109/ICCIC.2014.7238362
+JO  - 2014 IEEE International Conference on Computational Intelligence and Computing Research
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 IEEE International Conference on Computational Intelligence and Computing Research
+Y1  - 18-20 Dec. 2014
+AB  - Amongst the various open source educational software, the Modular Object Oriented Developmental Learning Environment (MOODLE) seems to be the most user friendly having numerous features. This paper aims at investigating the usefulness of digital technologies imparted into a blended learning model for engineering education. The role of Information and Communication Technology (ICT) plays a wider role in teaching-learning activities like, content creation, administrative, formative-summative assessments, student's performance tracking, trainings, knowledge management and knowledge organization. In addition, the technical features of ICT allow us to customize to meet the demands of an institution. Considering the recent major shifts in the learning paradigm, these innovations were deployed in an ongoing, real time basis in our educational campus. Technology based virtual learning approach was aimed at stimulating students' interest in learning engineering curriculum; consequently its effectiveness was statistically evaluated. Finally, this research report is aimed at summarizing the ways in which ICT is used, and how it creates new learning opportunities both online and off line.
+ER  - 
+
+TY  - CONF
+TI  - Applied Research on the Integration of Innovative Approaches and Decision-making Method Based on Engineering Technical Innovation Process
+T2  - 2010 International Conference on Computational Aspects of Social Networks
+SP  - 417
+EP  - 421
+AU  - A. Zhang
+AU  - G. Hou
+AU  - Z. Wang
+PY  - 2010
+KW  - Technological innovation
+KW  - Decision making
+KW  - Economics
+KW  - Systematics
+KW  - Presses
+KW  - Problem-solving
+KW  - Patents
+KW  - Engineering Technical Innovation
+KW  - innovative approaches
+KW  - decision-making method
+DO  - 10.1109/CASoN.2010.101
+JO  - 2010 International Conference on Computational Aspects of Social Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Computational Aspects of Social Networks
+Y1  - 26-28 Sept. 2010
+AB  - Engineering and technical innovation process is a complex dynamic system. In every stages of engineering technological innovation decision-making process, the selection and applying of methods will affect the success or failure of the decision-making and innovation, we explains the meaning and processes of technological innovation projects, and build application model of engineering innovation process based on the integration of innovative approaches and decision-making method.
+ER  - 
+
+TY  - CONF
+TI  - A review of models for introducing computational thinking, computer science and computing in K-12 education
+T2  - 2016 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 9
+AU  - F. Heintz
+AU  - L. Mannila
+AU  - T. Färnqvist
+PY  - 2016
+KW  - Education
+KW  - Programming profession
+KW  - Computers
+KW  - Computational modeling
+KW  - Australia
+DO  - 10.1109/FIE.2016.7757410
+JO  - 2016 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE Frontiers in Education Conference (FIE)
+Y1  - 12-15 Oct. 2016
+AB  - Computer science is becoming ever increasingly important to our society. Computer science content has, however, not traditionally been considered a natural part of curricula for primary and secondary education. Computer science has traditionally been primarily a university level discipline and there are no widely accepted general standards for what computer science at K-12 level entails. Also, as the interest in this area is rather new, the amount of research conducted in the field is still limited. In this paper we review how 10 different countries have approached introducing computer science into their K-12 education. The countries are Australia, England, Estonia, Finland, New Zealand, Norway, Sweden, South Korea, Poland and USA. The studied countries either emphasize digital competencies together with programming or the broader subject of computer science or computing. Computational thinking is rarely mentioned explicitly, but the ideas are often included in some form. The most common model is to make computer science content compulsory in primary school and elective in secondary school. A few countries have made it compulsory in both, while some countries have only introduced it in secondary school.
+ER  - 
+
+TY  - CONF
+TI  - Nonnative speech recognition based on bilingual model modification
+T2  - 2009 IEEE International Conference on Fuzzy Systems
+SP  - 110
+EP  - 114
+AU  - Q. Zhang
+AU  - J. Pan
+AU  - S. -d. Chan
+AU  - Y. Yan
+PY  - 2009
+KW  - Speech recognition
+KW  - Loudspeakers
+KW  - Natural languages
+KW  - Training data
+KW  - Automatic speech recognition
+KW  - Acoustic testing
+KW  - Error analysis
+KW  - Robustness
+KW  - Maximum likelihood linear regression
+KW  - Merging
+DO  - 10.1109/FUZZY.2009.5277103
+JO  - 2009 IEEE International Conference on Fuzzy Systems
+IS  - 
+SN  - 1098-7584
+VO  - 
+VL  - 
+JA  - 2009 IEEE International Conference on Fuzzy Systems
+Y1  - 20-24 Aug. 2009
+AB  - This paper presents a novel bilingual model modification approach to improve nonnative speech recognition accuracy when the variations of accented pronunciations occur. Each state of baseline nonnative acoustic model is modified with several candidate states from the auxiliary acoustic model, which is trained on speakers' mother language. State mapping criterion and n-best candidates are investigated, and different numbers of Gaussian mixtures of the auxiliary acoustic model are compared based on a grammar-constrained speech recognition system. Using this bilingual model modification approach, compared to the nonnative acoustic model which has already been well trained by adaptation technique MAP, the Phrase Error Rate further achieves a 5.83% relative reduction, while only a small relative increase on Real Time Factor occurs.
+ER  - 
+
+TY  - JOUR
+TI  - A Collaborative Citizen Science Platform for Real-Time Volunteer Computing and Games
+T2  - IEEE Transactions on Computational Social Systems
+SP  - 9
+EP  - 19
+AU  - P. Yadav
+AU  - I. Charalampidis
+AU  - J. Cohen
+AU  - J. Darlington
+AU  - F. Grey
+PY  - 2018
+KW  - Games
+KW  - Tools
+KW  - Real-time systems
+KW  - Computer applications
+KW  - Distributed processing
+KW  - Citizen cyberscience (CCS)
+KW  - cloud computing
+KW  - community grid
+KW  - crowdsourcing
+KW  - human computation
+KW  - middleware
+KW  - nonprofit sector
+KW  - online games
+KW  - parallel computing
+KW  - realtime distributed computing
+KW  - volunteer computing (VC)
+KW  - volunteer thinking (VT)
+DO  - 10.1109/TCSS.2017.2771479
+JO  - IEEE Transactions on Computational Social Systems
+IS  - 1
+SN  - 2329-924X
+VO  - 5
+VL  - 5
+JA  - IEEE Transactions on Computational Social Systems
+Y1  - March 2018
+AB  - Volunteer computing (VC) or distributed computing projects are common in the citizen cyberscience (CCS) community and present extensive opportunities for scientists to make use of computing power donated by volunteers to undertake large-scale scientific computing tasks. VC is generally a noninteractive process for those contributing computing resources to a project, whereas volunteer thinking (VT) or distributed thinking allows volunteers to participate interactively in CCS projects to solve human computation tasks. In this paper, we describe the integration of three tools, the Virtual Atom Smasher (VAS) game developed by CERN, LiveQ, a job distribution middleware, and CitizenGrid, an online platform for hosting and providing computation to CCS projects. This integration demonstrates the combining of VC and VT to help address the scientific and educational goals of games like VAS. This paper introduces the three tools and provides details of the integration process along with further potential usage scenarios for the resulting platform.
+ER  - 
+
+TY  - CONF
+TI  - A preliminary study on interdisciplinary programming learning based on cloud computing low-code development platform
+T2  - 2022 International Conference on Computer and Applications (ICCA)
+SP  - 1
+EP  - 5
+AU  - C. -H. Wang
+AU  - K. -C. Wu
+PY  - 2022
+KW  - Cloud computing
+KW  - Power measurement
+KW  - Pain
+KW  - Education
+KW  - Computer architecture
+KW  - Market research
+KW  - Encoding
+KW  - interdisciplinary learning
+KW  - low-code development platform
+KW  - dual coding theory
+KW  - computational thinking
+KW  - imagination
+KW  - cloud computing
+DO  - 10.1109/ICCA56443.2022.10039663
+JO  - 2022 International Conference on Computer and Applications (ICCA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Computer and Applications (ICCA)
+Y1  - 20-22 Dec. 2022
+AB  - The application of “programming education” has become one of the future technological trends, and students with design backgrounds should also grasp this important development. In this study, the “AgilePoint NX” program course was established, and computational thinking was introduced into the course to guide students, through the image flow and low-code learning process, to carry out structured thinking and question speculation, and complete task exercises. This aims to teach design students to learn programming and computational thinking through a cloud-based low-code development platform with image processes and interdisciplinary learning processes. We conduct a comprehensive analysis and evaluate the learning effect through classroom learning observation, simple questionnaire survey, imagination scale, and other methods. Finally, the study found that in interdisciplinary programming learning, different factors lead to low learning effects of programming courses for design background students, resulting in different degrees of learning pain points and learning experiences. The power of imagination test is a tentative exploration of this research, but for the low-code development platform with fewer measurement data and biased towards procedural thinking, only predictive exploration has no significant data to show the specific impact on the programming learning process, only As a reference for interdisciplinary study.
+ER  - 
+
+TY  - CONF
+TI  - Work in progress: Llup'ix
+T2  - 2019 IEEE World Conference on Engineering Education (EDUNINE)
+SP  - 1
+EP  - 4
+AU  - J. A. Díaz Leon
+AU  - W. E. Abad Jiménez
+AU  - J. L. Barraza Ramírez
+AU  - S. A. Frontado Aldana
+AU  - A. T. A. Puma Alvites
+AU  - R. L. Solórzano Pinzás
+PY  - 2019
+KW  - Education
+KW  - Programming profession
+KW  - Games
+KW  - Computers
+KW  - Software
+KW  - Proposals
+KW  - teach
+KW  - computing
+KW  - public schools
+KW  - games
+KW  - computational thinking
+DO  - 10.1109/EDUNINE.2019.8875761
+JO  - 2019 IEEE World Conference on Engineering Education (EDUNINE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE World Conference on Engineering Education (EDUNINE)
+Y1  - 17-20 March 2019
+AB  - One erroneous idea from Peruvian population is to think that for teaching technology concepts in public schools is very important the use of hardware, software, electricity or Internet. The truth is that exists lots of teaching methods for developing a computational thinking and these do not depend on the resources mentioned before. Children have demonstrated a big capacity for secure their knowledge if the teaching method is simple and didactic through games and recreational activities. For these reasons, we propose the use of unplugged activities, which do not require the use of computers and has the objective of promoting, clearing out and developing essentials concepts of computer science, as well as developing the computational thinking in kids through a funny and dynamic focus. In this way, they are going to be prepared to enter in a world where the computer science is expanding progressively in each area of daily life.
+ER  - 
+
+TY  - CONF
+TI  - Work in progress: Peruvian curricular meshes
+T2  - 2019 IEEE World Conference on Engineering Education (EDUNINE)
+SP  - 1
+EP  - 4
+AU  - J. Minaya
+AU  - P. Marini
+AU  - G. Alfaro
+AU  - J. Tanta
+AU  - F. Socualaya
+AU  - R. Temoche
+AU  - J. Diaz
+PY  - 2019
+KW  - Education
+KW  - Programming profession
+KW  - Mathematics
+KW  - Engineering profession
+KW  - Computer languages
+KW  - C++
+KW  - computational thinking
+KW  - scratch
+KW  - programming
+KW  - teaching
+DO  - 10.1109/EDUNINE.2019.8875768
+JO  - 2019 IEEE World Conference on Engineering Education (EDUNINE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE World Conference on Engineering Education (EDUNINE)
+Y1  - 17-20 March 2019
+AB  - The solution consists in creating a new curriculum for the topics of computing in schools that will focus on a didactic teaching so that students can develop computer thinking. It consists of 3 stages and each stage will focus on students of certain ages. The first stage corresponds to the grades from 1st grade to 2nd grade of primary school. The bases of computational thinking will be developed through dynamics and games, in this way children will not get bored and learn by playing. The second stage is aimed at students from 3rd grade to 6th grade. It consists in introducing the basic concepts of the computation and the use of Scratch once the computational thinking was developed when they were smaller. Finally, in the third stage the programming languages will be taught. This stage is developed throughout high school and will start with the Python language to finish with C ++.
+ER  - 
+
+TY  - CONF
+TI  - Work in progress — What are you thinking? Over confidence in first year students
+T2  - 2010 IEEE Frontiers in Education Conference (FIE)
+SP  - F2H-1
+EP  - F2H-2
+AU  - B. Hamlin
+AU  - J. Riehl
+AU  - A. J. Hamlin
+AU  - A. Monte
+PY  - 2010
+KW  - Engineering students
+KW  - Computers
+KW  - Educational institutions
+KW  - Conferences
+KW  - Mechanical engineering
+KW  - Videos
+KW  - Software
+KW  - assessment
+KW  - first year
+KW  - gender confidence
+DO  - 10.1109/FIE.2010.5673354
+JO  - 2010 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2010 IEEE Frontiers in Education Conference (FIE)
+Y1  - 27-30 Oct. 2010
+AB  - Michigan Technological University is one of the nation's largest engineering schools (900+ first year students) and houses a large common first year engineering curriculum. The purpose of this curriculum is to introduce many of the fundamental components of engineering. One of these components is the use of modern computational and programming tools to solve engineering problems. This paper continues a long-term study that began in 2007 and focuses on student confidence with the use of computational tools. On the first day of class, students were surveyed on their proficiency with the use of spreadsheets. Students self reported levels of proficiency from expert to no experience. Students were then asked a simple question regarding a spreadsheet cell equation. Over three years only 16% of the students were correct, while 90% self ranked as familiar or better. A gender bias was noted as women under estimated their skills while men overestimated their own abilities. This study contributes to the growing body of knowledge of gender confidence gaps. Additionally, it lays the groundwork for creating an assessment plan to identify the preparedness of incoming students and measure their skill at the end of the course.
+ER  - 
+
+TY  - CONF
+TI  - Systems thinking in fair water resources allocation
+T2  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+SP  - 11
+EP  - 11
+AU  - K. W. Hipel
+PY  - 2013
+KW  - Water resources
+KW  - Resource management
+KW  - Educational institutions
+KW  - Rivers
+KW  - Awards activities
+KW  - Societies
+KW  - Cybernetics
+DO  - 10.1109/ICCCyb.2013.6617570
+JO  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE 9th International Conference on Computational Cybernetics (ICCC)
+Y1  - 8-10 July 2013
+AB  - Systems thinking approaches are employed to construct a formal decision making methodology for equitably allocating water among competing users in a river basin when taking into account both the societal and physical systems aspects of the allocation problem. In particular, within the societal component of the decision problem, multiple participants, their multiple objectives, equity principles, and economic factors are considered, while the physical systems part reflects relevant hydrologic and environmental factors. The Cooperative Water Allocation Model (CWAM) incorporates these societal and physical systems concerns within the framework of a large-scale optimization program which is divided into two main steps. Firstly, water is allocated among users based on existing legal water rights regimes or agreements. Secondly, water and associated benefits are reallocated among stakeholders to maximize basin-wide welfare. CWAM is applied to the South Saskatchewan River Basin located in the Canadian province of Alberta to demonstrate how it can be conveniently applied to a water allocation system of systems problem.
+ER  - 
+
+TY  - CONF
+TI  - Gamified Coding: Toy Robots and Playful Learning in Early Education
+T2  - 2019 International Conference on Computational Science and Computational Intelligence (CSCI)
+SP  - 800
+EP  - 805
+AU  - K. Heljakka
+AU  - P. Ihamäki
+AU  - P. Tuomi
+AU  - P. Saarikoski
+PY  - 2019
+KW  - Toy manufacturing industry
+KW  - Encoding
+KW  - Education
+KW  - Programming profession
+KW  - Robot sensing systems
+KW  - coding
+KW  - gamification
+KW  - toy robots
+KW  - physical play
+KW  - programming
+DO  - 10.1109/CSCI49370.2019.00152
+JO  - 2019 International Conference on Computational Science and Computational Intelligence (CSCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Computational Science and Computational Intelligence (CSCI)
+Y1  - 5-7 Dec. 2019
+AB  - This paper explores the activity of coding with smart toy robots Dash and Botley as a part of playful learning in the Finnish early education context. The findings of our study demonstrate how coding with the two toy robots was approached, conducted and played by Finnish preschoolers aged 5-6 years. The main conclusion of the study is that preschoolers used the toy robots with affordances related to coding mainly in developing gamified play around them by designing tracks for the toys, programming the toys to solve obstacle paths, and competing in player-generated contests of dexterity, speed and physically mobile play.
+ER  - 
+
+TY  - CONF
+TI  - Development of a travel consultation system based on exchange of meaning
+T2  - IEEE SMC'99 Conference Proceedings. 1999 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No.99CH37028)
+SP  - 540
+EP  - 545 vol.2
+AU  - M. S. Chang
+AU  - I. Kobayashi
+AU  - M. Sugeno
+PY  - 1999
+KW  - Natural languages
+KW  - Humans
+KW  - Information processing
+KW  - Context
+KW  - Competitive intelligence
+KW  - Computer architecture
+KW  - Computational intelligence
+KW  - Information analysis
+KW  - Computer science
+KW  - Social factors
+DO  - 10.1109/ICSMC.1999.825318
+JO  - IEEE SMC'99 Conference Proceedings. 1999 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No.99CH37028)
+IS  - 
+SN  - 1062-922X
+VO  - 2
+VL  - 2
+JA  - IEEE SMC'99 Conference Proceedings. 1999 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No.99CH37028)
+Y1  - 12-15 Oct. 1999
+AB  - Human activity naturally contains ambiguities and contradictions that cannot be solved mathematically or logically. We think that human intelligence is closely related to the use of language. Therefore, in order to achieve intelligent computing as human beings do, we need to realize the architecture in which language is used as an information medium on a computer. In this paper we study on the development of a travel consultation system based on the above architecture as an example of information processing in intelligent computing, and show how language functions in information processing.
+ER  - 
+
+TY  - CONF
+TI  - Complexity of Bayesian belief exchange over a network
+T2  - 2017 IEEE 56th Annual Conference on Decision and Control (CDC)
+SP  - 2611
+EP  - 2616
+AU  - M. A. Rahimian
+AU  - A. Jadbabaie
+AU  - E. Mossel
+PY  - 2017
+KW  - Bayes methods
+KW  - Nickel
+KW  - Economic indicators
+KW  - History
+KW  - Computational complexity
+KW  - Conferences
+KW  - Rational Choice theory
+KW  - Computational social choice
+KW  - Distributed hypothesis testing
+KW  - Bayesian inference
+KW  - Computational complexity
+KW  - Bayesian computations
+DO  - 10.1109/CDC.2017.8264038
+JO  - 2017 IEEE 56th Annual Conference on Decision and Control (CDC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE 56th Annual Conference on Decision and Control (CDC)
+Y1  - 12-15 Dec. 2017
+AB  - Many important real-world decision making problems involve group interactions among individuals with purely informational externalities, such situations arise for example in jury deliberations, expert committees, medical diagnosis, etc. In this paper, we will use the framework of iterated eliminations to model the decision problem as well as the thinking process of a Bayesian agent in a group decision/discussion scenario. We model the purely informational interactions of rational agents in a group, where they receive private information and act based upon that information while also observing other people's beliefs. As the Bayesian agent attempts to infer the true state of the world from her sequence of observations which include her neighbors' beliefs as well as her own private signal, she recursively refines her belief about the signals that other players could have observed and beliefs that they would have hold given the assumption that other players are also rational. We further analyze the computational complexity of the Bayesian belief formation in groups and show that it is MV-hard. We also investigate the factors underlying this computational complexity and show how belief calculations simplify in special network structures or cases with strong inherent symmetries. We finally give insights about the statistical efficiency (optimality) of the beliefs and its relations to computational efficiency.
+ER  - 
+
+TY  - CONF
+TI  - Educational Robotics and Computer Programming in Early Childhood Education: A Conceptual Framework for Assessing Elementary School Students’ Computational Thinking for Designing Powerful Educational Scenarios
+T2  - 2022 International Conference on Smart Technologies and Systems for Next Generation Computing (ICSTSN)
+SP  - 1
+EP  - 7
+AU  - A. Alam
+PY  - 2022
+KW  - Systematics
+KW  - Educational robots
+KW  - Education
+KW  - Toy manufacturing industry
+KW  - Educational technology
+KW  - Robots
+KW  - Programming profession
+KW  - Engineering
+KW  - Robotics
+KW  - Pedagogical Science
+KW  - e-Learning
+KW  - Computer Programming
+KW  - Educational Technology
+KW  - STEM Education
+KW  - Early Childhood Education
+DO  - 10.1109/ICSTSN53084.2022.9761354
+JO  - 2022 International Conference on Smart Technologies and Systems for Next Generation Computing (ICSTSN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Smart Technologies and Systems for Next Generation Computing (ICSTSN)
+Y1  - 25-26 March 2022
+AB  - The researcher sought to synthesize data from studies on robotics programming experiences for children in the age bracket zero to eight, as well as for pre- and in-service early childhood educators, to identify possible contributions that robotics programming may make to teaching and learning of STEM (sciences, technology, engineering, and mathematics) subjects. The investigation was initiated with inclusion of research articles as a result of search and assessment processes. All of these studies were selected such that they had the application of educational robotics in common. The synthesis of preliminary findings, study subjects, and potential advantages of educational robots in STEM education, especially in engineering and technology are discussed and dealt with in great detail. Additionally, the implications of educational robotics and robotics programming for educational institutions, curricular materials, and pedagogical techniques are incisively addressed. This review revealed that employing robots to teach computer programming may be a promising teaching tool for early childhood STEM education.
+ER  - 
+
+TY  - CONF
+TI  - Model of Hyper Topology Structure about Associative Thinking
+T2  - 2008 Fourth International Conference on Natural Computation
+SP  - 637
+EP  - 641
+AU  - J. Han
+AU  - X. Wang
+PY  - 2008
+KW  - Topology
+KW  - Knowledge representation
+KW  - Computational modeling
+KW  - Computer science
+KW  - Artificial intelligence
+KW  - Kernel
+KW  - Mathematical model
+KW  - Mathematics
+DO  - 10.1109/ICNC.2008.398
+JO  - 2008 Fourth International Conference on Natural Computation
+IS  - 
+SN  - 2157-9563
+VO  - 2
+VL  - 2
+JA  - 2008 Fourth International Conference on Natural Computation
+Y1  - 18-20 Oct. 2008
+AB  - This paper researches the essential discipline of reminding thinking based on the practical structure of knowledge presentation, then brings forward the model of Hyper Topology Structure. And it gives not only a method for reminding computing which could integrate to deal with analogy and opposite correlation but also a reminding algorithm of first levels. It is proved that the model is a general one about reminding thinking indeed.
+ER  - 
+
+TY  - CONF
+TI  - Digital technology teachers' perceptions of computer science: It is not all about programming
+T2  - 2014 IEEE Frontiers in Education Conference (FIE) Proceedings
+SP  - 1
+EP  - 5
+AU  - E. Prieto-Rodriguez
+AU  - R. Berretta
+PY  - 2014
+KW  - Conferences
+KW  - Educational institutions
+KW  - Computers
+KW  - Mathematics
+KW  - Programming
+KW  - computational thinking
+KW  - CS4HS
+KW  - teacher perceptions
+DO  - 10.1109/FIE.2014.7044134
+JO  - 2014 IEEE Frontiers in Education Conference (FIE) Proceedings
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2014 IEEE Frontiers in Education Conference (FIE) Proceedings
+Y1  - 22-25 Oct. 2014
+AB  - A considerable body of research examines people's perceptions of the nature of science. There is also extensive research about what those perceptions are for teachers, and what strategies can be used to change them. There is, however, very little information about what these perceptions may be in the case of computer science. In fact, computer scientists struggle to agree on a definition of their discipline, and perhaps the only term common term to all existing definitions is that of computational thinking. This paper reports on an investigation into perceptions about computer science occurred during a series of professional development workshops for Australian Digital Technologies teachers. These workshops aimed to promote the computer science discipline by providing skills and resources necessary to teach computer science and computational thinking. The results of our investigation indicate that Digital Technologies teachers in our sample (N=16) had one common misconception about the nature of computer science. We also found that the misconception was changed after 3 days of intensive education about computational thinking, computer science and its applications.
+ER  - 
+
+TY  - CONF
+TI  - Different Perceptions of Computer Science
+T2  - 2016 International Conference on Learning and Teaching in Computing and Engineering (LaTICE)
+SP  - 14
+EP  - 18
+AU  - A. Funke
+AU  - M. Berges
+AU  - P. Hubwieser
+PY  - 2016
+KW  - Computers
+KW  - Biographies
+KW  - Programming
+KW  - Games
+KW  - Engineering profession
+KW  - Computational modeling
+KW  - Gender Differences
+KW  - Biographies
+KW  - Computer Science Education
+DO  - 10.1109/LaTiCE.2016.1
+JO  - 2016 International Conference on Learning and Teaching in Computing and Engineering (LaTICE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Learning and Teaching in Computing and Engineering (LaTICE)
+Y1  - 31 March-3 April 2016
+AB  - This research project aims to investigate, how young men and women differ regarding (1) their perceptions of Computer Science (CS) as a scientific discipline respectively as a professional field and (2) the experiences that had influenced their choice of major subject. For that purpose, we conducted a biographical study of CS freshmen at university. In total, 217 students (54 female, 163 male) participated on the survey. The qualitative analysis showed that young men and women do have different viewpoints on computer science. While the male students tend to focus on technical aspects like hardware, mathematics, or logical issues, the female students are attracted rather by creativity, communication, or job opportunities. Furthermore, we investigated the differences between several courses of study. While students of core Computer Science are emphasizing technical issues and their personal experience with computers, the students of Games Engineering, Information Systems, or Bioinformatics mainly focus on the application fields and regard CS as a tool. All these differences seem to influence the selection of the major subject of the students. They might explain the problem of low enrollment rates in Computer Science and the decreasing number of students in core Computer Science in comparison to the more interdisciplinary courses of study.
+ER  - 
+
+TY  - CONF
+TI  - End-to-End Speech Summarization Using Restricted Self-Attention
+T2  - ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+SP  - 8072
+EP  - 8076
+AU  - R. Sharma
+AU  - S. Palaskar
+AU  - A. W. Black
+AU  - F. Metze
+PY  - 2022
+KW  - Text recognition
+KW  - Computational modeling
+KW  - Memory management
+KW  - Speech recognition
+KW  - Predictive models
+KW  - Signal processing
+KW  - Transformers
+KW  - speech summarization
+KW  - end-to-end
+KW  - long sequence modeling
+KW  - concept learning
+DO  - 10.1109/ICASSP43922.2022.9747320
+JO  - ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+IS  - 
+SN  - 2379-190X
+VO  - 
+VL  - 
+JA  - ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+Y1  - 23-27 May 2022
+AB  - Speech summarization is typically performed by using a cascade of speech recognition and text summarization models. End-to-end modeling of speech summarization models is challenging due to memory and compute constraints arising from long input audio sequences. Recent work in document summarization has inspired methods to reduce the complexity of self-attentions, which enables transformer models to handle long sequences. In this work, we introduce a single model optimized end-to-end for speech summarization. We apply the restricted self-attention technique from text-based models to speech models to address the memory and compute constraints. We demonstrate that the proposed model learns to directly summarize speech for the How-2 corpus of instructional videos. The proposed end-to-end model outperforms the previously proposed cascaded model by 3 points absolute on ROUGE. Further, we consider the spoken language understanding task of predicting concepts from speech inputs and show that the proposed end-to-end model outperforms the cascade model by 4 points absolute F-1.
+ER  - 
+
+TY  - CONF
+TI  - Ant Colony Optimization Algorithm for Fuzzy Transport Modelling
+T2  - 2020 15th Conference on Computer Science and Information Systems (FedCSIS)
+SP  - 237
+EP  - 240
+AU  - S. Fidanova
+AU  - O. Roeva
+AU  - M. Ganzha
+PY  - 2020
+KW  - Economics
+KW  - Computer science
+KW  - Ant colony optimization
+KW  - Computational modeling
+KW  - Biological system modeling
+KW  - Transportation
+KW  - Linear programming
+DO  - 10.15439/2020F15
+JO  - 2020 15th Conference on Computer Science and Information Systems (FedCSIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 15th Conference on Computer Science and Information Systems (FedCSIS)
+Y1  - 6-9 Sept. 2020
+AB  - Public transport plays an important role in our live. It is very important to have a reliable service. Up to 1000 km, trains and buses play the main role in the public transport. The number of the people and which kind of transport they prefer is important information for transport operators. In this paper is proposed algorithm for transport modeling and passenger flow, based on Ant Colony Optimization method. The problem is described as multi-objective optimization problem. There are two optimization purposes: minimal transportation time and minimal price. Some fuzzy element is included. When the price is in a predefined interval it is considered the same. Similar for the starting traveling time. The aim is to show how many passengers will prefer train and how many will prefer buses according their preferences, the price or the time.
+ER  - 
+
+TY  - CONF
+TI  - ICT4D 2.0 studies in virtual environment: Context and user needs to foster learning process
+T2  - 2016 IST-Africa Week Conference
+SP  - 1
+EP  - 8
+AU  - N. Mavengere
+AU  - M. Ruohonen
+PY  - 2016
+KW  - Context
+KW  - Virtual environments
+KW  - Information and communication technology
+KW  - Education
+KW  - Collaboration
+KW  - Internet
+KW  - Computational modeling
+KW  - virtual learning
+KW  - user needs in virtual learning
+KW  - context in virtual learning
+KW  - virtual learning review
+KW  - information and communication technology for development (ICT4D) 2.0 course
+DO  - 10.1109/ISTAFRICA.2016.7530608
+JO  - 2016 IST-Africa Week Conference
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IST-Africa Week Conference
+Y1  - 11-13 May 2016
+AB  - The development agenda is always evolving, for instance the initiation of the sustainable development goals (SDGs) from the millennium development goals (MDGs). On the other hand, rapid technological advances presents both challenges and opportunities to the development agenda. Learning is ever-required in this continuously changing environment. In addition, the global nature of the environment today calls for virtual learning because of convenience, time and cost factors. This research seeks to draw measures to promote virtual learning experience. The research is based on a total virtual learning experience of a masters' level information and communication technology for development (ICT4D) 2.0 course comprised of students in South Africa, Myanmar, Finland and Germany at the University of Tampere. The research included how well the virtual environment and pedagogy promoted constructive, collaborative and conversational learning. In addition, how well the learners' needs, such as, active, reflective and intentional learning are incorporated. The research seeks to promote context in terms of assessing the learning environment, that is, students' virtual learning experience, study contents and learning technologies. Context should be embraced to map the learning process that suits the learners and study contents. The results of this study include highlighting pedagogical techniques and technological tools that fit the learners' and study content requirements to foster learning in a virtual environment. For example in this ICT4D 2.0 course, open learning diary, that is, online submission of students' diaries so that all the course's participants could review, was adopted to make learning more collaborative and conversional. Technological tools, such as, wiki and discussion form were also adopted to promote active and reflective learning in virtual environment. These pedagogical techniques and technological tools have to fit the learning context, thus for instance in the ICT4D class adoption was a result of the mid-course virtual learning review.
+ER  - 
+
+TY  - CONF
+TI  - Neural Hive – A Blockchain Based Approach to Pool Resources for AI Model Training En Masse
+T2  - 2023 IEEE 21st Student Conference on Research and Development (SCOReD)
+SP  - 229
+EP  - 233
+AU  - M. H. Rana
+AU  - V. A. Hameed
+PY  - 2023
+KW  - Training
+KW  - Computational modeling
+KW  - Biological system modeling
+KW  - Transforms
+KW  - Blockchains
+KW  - Stakeholders
+KW  - Security
+KW  - Artificial Intelligence
+KW  - Neural Network
+KW  - Machine Learning
+KW  - Blockchain
+KW  - Decentralized
+KW  - AI model
+KW  - Resource pooling
+KW  - Open-Source
+KW  - Monopolization
+KW  - ChatGPT
+KW  - GPT-4
+KW  - M6
+KW  - Free-to-use AI
+KW  - NLP
+DO  - 10.1109/SCOReD60679.2023.10563364
+JO  - 2023 IEEE 21st Student Conference on Research and Development (SCOReD)
+IS  - 
+SN  - 2643-2447
+VO  - 
+VL  - 
+JA  - 2023 IEEE 21st Student Conference on Research and Development (SCOReD)
+Y1  - 13-14 Dec. 2023
+AB  - Although artificial intelligence (AI) is changing the world quickly, training AI models still requires a lot of money and time. This is so because training an AI model needs a lot of data and processing power. A website that allows users to promote their AI model to other users and pay them for sharing their computer resources to help train it is one suggested solution to this problem. A blockchain-based strategy can be used to do this, and it offers numerous advantages such as lower expenses, effective resource pooling, task automation, precise remuneration, and a decrease in administrative overhead. AI models will thereby become more effective, more reasonably priced, and available to a larger variety of individuals and institutions.
+ER  - 
+
+TY  - CONF
+TI  - System testability modeling and analysis based on device level failure mode effect and criticality analysis
+T2  - 2016 11th International Conference on Reliability, Maintainability and Safety (ICRMS)
+SP  - 1
+EP  - 5
+AU  - X. Yang
+AU  - H. Yang
+AU  - J. Huang
+AU  - Z. Fang
+PY  - 2016
+KW  - Analytical models
+KW  - Mathematical model
+KW  - Computational modeling
+KW  - Signal processing
+KW  - Testing
+KW  - Fault detection
+KW  - Data models
+KW  - testability modeling
+KW  - testability analysis
+KW  - FMECA
+KW  - multi-signal model
+DO  - 10.1109/ICRMS.2016.8050072
+JO  - 2016 11th International Conference on Reliability, Maintainability and Safety (ICRMS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 11th International Conference on Reliability, Maintainability and Safety (ICRMS)
+Y1  - 26-28 Oct. 2016
+AB  - The testability of equipment has become the key factor affecting equipment availability, and detracts from readiness and mission success. To overcome the current problems associated with the analysis of equipment testability, such as non-comprehensive failure mode coverage, low fault detection rate, and low fault location accuracy, this paper presents a system testability modeling and analysis method based on a summary of the results of device level failure mode effect and criticality analysis (FMECA), which is developed according to the failure data of components and a hardware impact analysis. In particular, we present a mathematical multi-signal model, quantitative methods and mathematical models of system testability, and the implementation processes of system testability modeling. The proposed method allows the failure modes of a module to be obtained accurately and comprehensively. By functioning at the device level, the method provides good fault location accuracy, and improves the authenticity of system testability analysis results. Finally, the testability of an actual electronic system is conducted using CARMES, which is a widely used reliability engineering software. The results verify the effectiveness and authenticity of the presented method, which can also provide a reference for the testability modeling and analysis of follow-up system design.
+ER  - 
+
+
