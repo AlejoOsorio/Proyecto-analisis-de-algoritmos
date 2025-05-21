@@ -9,7 +9,7 @@ def __ris_to_dict(filepath):
 
     articles = read_ris_file(filepath)
     for article in articles:
-        identifier = article.get("doi", None) or article.get("urls", None)
+        identifier = article.get("doi", None)
         dict[identifier] = article
 
     return dict
